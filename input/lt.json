@@ -1,0 +1,413 @@
+{
+  "app": "MY GIN",
+  "app_desc": "Ieškokite paslaugų vienu paspaudimu!",
+  "titles": {
+    "welcome": "Sveiki atvykę į",
+    "rating": "Įvertinimas"
+  },
+  "locales": {
+    "ru": "Русский",
+    "uk": "Українська",
+    "pl": "Polska",
+    "es": "Español",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Românesc",
+    "sk": "Slovenská",
+    "hu": "Magyar",
+    "el": "Ελληνικά",
+    "tr": "Türkçe",
+    "lt": "Lietuvių",
+    "et": "Eesti keel",
+    "ka": "ქართული",
+    "sr": "Српски",
+    "hy": "հայերեն"
+  },
+  "distances": {
+    "km": "km"
+  },
+  "currencies": {
+    "uah": "UAH"
+  },
+  "header": {
+    "back": "Atgal",
+    "send": "Siųsti",
+    "customer": "Klientas",
+    "executor": "Vykdytojas",
+    "helping": "Palaikymas",
+    "close": "Atšaukti",
+    "reset": "Nustatyti iš naujo",
+    "search": "Paieška",
+    "vip": "VIP",
+    "rooms": "Pokalbis",
+    "my_card": "Mano vizitinė kortelė",
+    "report_list": "Palaikymas",
+    "review": "Tavo atsiliepimas"
+  },
+  "messages": {
+    "confirm_phone": "Patvirtinkite telefono numerį",
+    "create_order": "Dėkojame už užsakymą!",
+    "saved": "Išsaugota!",
+    "create_application": "Paraiška pateikta!",
+    "create_top": "Dėkojame, kad įsigijote viršų!",
+    "create_vip": "Dėkojame už pirkinį",
+    "radiuses": {
+      "radius_10": "10 km spinduliu!",
+      "radius_20": "20 km spinduliu!",
+      "radius_30": "30 km spinduliu!",
+      "radius_unlimited": "spindulys neribotas!"
+    },
+    "bad_getaway_error": "Serveris laikinai nepasiekiamas",
+    "report_created": "Prašymas išsiųstas!",
+    "review_created": "Atsiliepimas išsiųstas!",
+    "removed": "Užsakymas ištrintas!",
+    "unauthorized": "Jūs nesate užsiregistravę, prašome užsiregistruoti",
+    "unverified": {
+      "title": "Jūs nesate patvirtintas",
+      "desc": "Jūs nesate patvirtintas, pateikite savo duomenis iš naujo"
+    },
+    "new_request_title": "Gavote naują atsakymą į",
+    "new_request_subtitle": "įsakymas",
+    "choice_executor_title": "Sveikiname! ",
+    "choice_executor_subtitle": "įsakymo vykdytojas"
+  },
+  "home": {
+    "hello": "Sveiki, ",
+    "not_authorize": "Jūs nesate įgaliotas",
+    "what_we_search": "Meistro paieška"
+  },
+  "sign_in": {
+    "subtitle": "Įveskite savo telefoną",
+    "footer": "Norėdami naudotis visomis programos funkcijomis – užsiregistruokite",
+    "sign_up_warning": "Jei dar nesate užsiregistravę, prašome užsiregistruoti",
+    "referral_code_title": "Įveskite nukreipimo kodą",
+    "sign_in_facebook": "Tęsti su Facebook",
+    "sign_in_google": "Tęsti su Google",
+    "sign_in_apple": "Tęsti su Apple",
+    "or": "arba",
+    "terms-of-use_1": "Sukurdami My Gin profilį, jūs",
+    "terms-of-use_2": "sutinku su",
+    "terms-of-use_3": "Naudojimo sąlygos",
+    "have_referral_code": "Aš turiu nukreipimo kodą"
+  },
+  "errors": {
+    "required": "Privalomas laukas",
+    "to_short": "Per trumpas",
+    "to_long": "Tai per ilgas",
+    "invalid_phone": "Neteisingas telefono numeris",
+    "invalid_email": "Neteisingas el. pašto adresas",
+    "share_location_failed": "Nepavyko gauti jūsų geoduomenų",
+    "verification": {
+      "required": "Reikalingos visos nuotraukos",
+      "back_missing": "Trūksta antros nuotraukos",
+      "front_missing": "Trūksta pirmos nuotraukos",
+      "face_missing": "Trūksta veido nuotraukos"
+    },
+    "invalid_avatar": "Pasirinkite savo nuotrauką",
+    "incorrect_address": "Neteisingai įvestas adresas"
+  },
+  "sign_up": {
+    "fields": {
+      "full_name": "Pilnas vardas",
+      "phone": "Mobilusis telefonas",
+      "email": "El. paštas",
+      "location": "Geolokacija",
+      "address": "Jūsų adresas",
+      "specialization": "Specialybė",
+      "tags": "Ką tu darai?",
+      "about_me": "Apie save",
+      "change_specialization": "Pasirinkite specialybę"
+    },
+    "share_location": "Bendrinkite savo vietą",
+    "tags_desc": "Specialybę galite parašyti patys, jei sąraše neradote",
+    "phone_add": "Pridėti telefoną",
+    "modal": {
+      "title": "„My Gin“ programa turi naudoti vietos nustatymo paslaugas, kad surastų žmones nurodytu spinduliu",
+      "button": "Bendrinti vietą"
+    }
+  },
+  "confirm_code": {
+    "type_code": "Įveskite kodą su",
+    "resend": "Siųsti dar kartą",
+    "after": "per",
+    "footer": "Norėdami naudotis visomis programos funkcijomis - ",
+    "to_sign_up": "Registruotis"
+  },
+  "order_form": {
+    "title": "Užsisakykite paslaugą",
+    "negotiable_price": "Galima derėtis",
+    "tags_note": "Žymes galite rašyti patys, jei sąraše neradote norimos specialybės",
+    "share_location": "Bendrinkite savo vietą",
+    "fields": {
+      "labels": {
+        "title": "Užduoties pavadinimas",
+        "desc": "Ką reikėtų daryti?",
+        "price": "Įveskite kainą (nebūtina)",
+        "location": "Kokiu spinduliu norite matyti jūsų užsakymą?",
+        "deadline": "Kada?",
+        "speciality": "kam tau reikia?",
+        "tags": "Pridėti žymes",
+        "geo": "Geolokacija"
+      },
+      "share_location": "Bendrinkite savo vietą",
+      "placeholders": {
+        "title": "Prideti pavadinima",
+        "desc": "pridėti aprašymą",
+        "price": "Pavyzdžiui, 200",
+        "change_specialization": "Pasirinkite specialybę",
+        "address": "Jūsų adresas"
+      }
+    },
+    "remove": "Ar tikrai norite ištrinti užsakymą?",
+    "modal": {
+      "title": "„My Gin“ programa turi naudoti vietos nustatymo paslaugas, kad surastų žmones nurodytu spinduliu",
+      "button": "Bendrinti vietą"
+    },
+    "dead_lines": {
+      "quickly": "skubiai",
+      "slowly": "neskubėk",
+      "on_week": "per savaitę"
+    },
+    "photo_add": "Pridėti nuotrauką"
+  },
+  "profile_list": {
+    "verification": {
+      "verificated": "Patvirtinta",
+      "verificating": "Patikrinta",
+      "not_verificate": "Išlaikyti patvirtinimą"
+    },
+    "verification_status": {
+      "verificated": "Patikrinta",
+      "verificating": "Patikrinta",
+      "not_verificate": "nepatikrinta"
+    },
+    "modal": {
+      "title": "Ar tikrai norite ištrinti profilį?",
+      "title_logout": "Ar jūs tikras, kad norite išeiti?",
+      "title_update": "Keičiant vardą, reikia iš naujo patvirtinti"
+    },
+    "my_orders": "Mano įsakymai",
+    "my_res": "Atsakymai",
+    "my_card": "Mano vizitinė kortelė",
+    "change_lang": "Pasirinkite kalbą",
+    "info": "Informacija",
+    "reviews": "Atsiliepimai",
+    "verificiation_desc": "Remiantis mūsų patirtimi, patikrinti naudotojai yra patikimesni",
+    "address": "Adresas:",
+    "phone": "Telefonas:",
+    "description": "Apie save:",
+    "finished_tasks": "Vykdė užsakymus:",
+    "created_at": "Registruotas:",
+    "null": "Neužpildytas",
+    "logout": "Išeiti",
+    "year": "metų",
+    "remove": "Ištrinti profilį",
+    "image_picker": "norėdami identifikuoti vartotoją, turite įkelti tik savo tikrąją nuotrauką",
+    "settings": "Nustatymai",
+    "referral_program": "Rekomendacijų programa"
+  },
+  "verification": {
+    "title": "Patikrinimas",
+    "upload_front": "Įkelkite savo paso arba asmens tapatybės kortelės pirmojo puslapio nuotrauką",
+    "upload_back": "Įkelkite savo paso arba asmens tapatybės kortelės antrojo puslapio nuotrauką",
+    "upload_face": "Įkelkite savo nuotrauką su aiškiai matomu veidu. Tai būtina asmens tapatybei nustatyti",
+    "add_photo": "+ Pridėti nuotrauką"
+  },
+  "filter": {
+    "title": "Filtras",
+    "change_specialization": "Pasirinkite specialybę",
+    "specialization_max": "Ne daugiau kaip 7 specialybės",
+    "specialization_min": "Mažiausiai 1 specialybė",
+    "tags": "Galite parašyti savo specialybę, jei jos neradote sąraše",
+    "radius": "Pasirinkite spindulį",
+    "modal": {
+      "title1": "Norėdami pasirinkti šį spindulį, nusipirkite tarifą Spindulį",
+      "title2": "",
+      "button": "Žiūrėk"
+    }
+  },
+  "order_list": {
+    "title": "Mano įsakymai",
+    "footer": "Įsakymas",
+    "contract": "galima derėtis"
+  },
+  "order_detail": {
+    "created_at": "Įdėtas",
+    "payment": "Mokėjimas:",
+    "desc": "Apibūdinimas:",
+    "contract": "galima derėtis",
+    "create_review": "Palikite atsiliepimą",
+    "user": {
+      "created_at": "Registruotas nuo",
+      "year": "metų"
+    },
+    "from_you": "nuo jūsų"
+  },
+  "executors_list": {},
+  "executor_detail": {
+    "call": "skambinti",
+    "go_to_chat": "Pranešimas",
+    "address": "Adresas",
+    "phone": "Telefonas",
+    "desc": "Apie save",
+    "task_completed": "Vykdė užsakymus",
+    "created_at": "Registruotas",
+    "was": "buvo)"
+  },
+  "application_form": {
+    "title": "Pateikite savo paraišką",
+    "fields": {
+      "placeholders": {
+        "comment": "Parašykite komentarą",
+        "price": "Pavyzdžiui, 200"
+      },
+      "labels": {
+        "price": "Jūsų kaina",
+        "comment": "Komentaras",
+        "photo_add": "Pridėti nuotrauką"
+      }
+    }
+  },
+  "application_list": {
+    "title": "Mano paraiškos"
+  },
+  "roles": {
+    "executor": "Aš esu atlikėjas",
+    "customer": "Esu klientas"
+  },
+  "buttons": {
+    "sign_in": "Įeiti",
+    "sign_up": "Registruotis",
+    "already_registered": "Jau užregistruotas?",
+    "join_to_us": "Prisijunk ",
+    "send": "Siųsti",
+    "to_sign_up": "Registruotis",
+    "order": "Įsakymas",
+    "save": "Sutaupyti",
+    "leave_application": "Pateikite savo paraišką",
+    "edit": "Redaguoti",
+    "confirm_executor": "Pasirinkite",
+    "reply": "Atsakymas",
+    "activated": "Aktyvus",
+    "buy": "Pirkti",
+    "remove": "Ištrinti",
+    "yes": "Taip",
+    "no": "Nr",
+    "cancel": "Atšaukti",
+    "open": "Eik",
+    "promo_code": "Turiu reklamos kodą",
+    "get": "Gauk"
+  },
+  "tabBar": {
+    "search": "Paieška",
+    "chat": "Pokalbis",
+    "vip": "VIP",
+    "profile": "Mano profilis",
+    "application": "Programos",
+    "favorite": "Parankiniai",
+    "order": "Įsakymas"
+  },
+  "image_picker": {
+    "gallery": "Pasirinkite nuotrauką iš galerijos",
+    "camera": "Norėdami padaryti nuotrauką"
+  },
+  "response_list": {
+    "title": "Mano atsakymai",
+    "show_all_request": "Rodyti visus atsakymus",
+    "created_at": "Pridėta",
+    "km": "km"
+  },
+  "vip": {
+    "top": {
+      "title": "Viršuje",
+      "desc": "Sąrašo didinimas (3-7-14 dienų)",
+      "day": "dienas",
+      "days": "dienų",
+      "end_time": "galioja iki"
+    },
+    "work_on": "Rodomi žmonių užsakymai, esantys iki",
+    "desc": " spinduliu nuo jų geografinės padėties",
+    "to": "šiandien",
+    "duration": "Galiojimo laikas 1 mėn"
+  },
+  "vip_statuses": {
+    "radius_10": "Spindulys 10 km",
+    "radius_20": "Spindulys 20 km",
+    "radius_30": "Spindulys 30 km",
+    "radius_100": "Spindulys 100 km",
+    "radius_unlimited": "Spindulys neribotas",
+    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+  },
+  "room_list": {
+    "modal": {
+      "title": "Ar tikrai norite ištrinti pokalbį? "
+    }
+  },
+  "room_detail": {
+    "form": {
+      "plaseholders": {
+        "type_message": "Rašyti žinutes"
+      }
+    },
+    "was_in": "buvo prisijungęs prieš maždaug"
+  },
+  "user_statuses": {
+    "online": "Prisijungęs",
+    "offline": "Neprisijungus"
+  },
+  "favorite_list": {
+    "sorters": {
+      "by_time": "Laiku",
+      "by_distance": "Pagal atstumą"
+    },
+    "placeholder": "Vardas Pavardė",
+    "empty": "Mėgstamiausių sąrašas tuščias Eikite į Paiešką, kad pridėtumėte reikiamus žmones"
+  },
+  "report_types": {
+    "it": "IT",
+    "consultation": "Konsultacija",
+    "complaint": "Skundas",
+    "add_specialty": "Pridėkite specialybę",
+    "viber": "Viber",
+    "tg": "Telegrama"
+  },
+  "report_create": {
+    "text": "* Tavo žinutė",
+    "share_file": "Pridėti failą"
+  },
+  "review_create": {
+    "rating": "Įvertinimas",
+    "text": {
+      "label": "Apžvalga",
+      "placeholder": "Pavyzdžiui, puikiai atliko šį darbą"
+    },
+    "photo_add": "Pridėti nuotrauką"
+  },
+  "logged_modal": {
+    "title": "Norėdami turėti daugiau funkcijų, turite užsiregistruoti!",
+    "button": "Prisijungti"
+  },
+  "success_modal": {
+    "title": "Sėkmingai pasirinkote šį atlikėją!",
+    "button": "Uždaryti"
+  },
+  "use_promo_code_modal": {
+    "title": "reklamos kodas",
+    "button_apply": "Taikyti",
+    "button_cancel": "Atšaukti",
+    "input_placeholder": "Įveskite reklamos kredito kodą"
+  },
+  "referral_program": {
+    "title": "Pakviesk draugą ir gauk dovaną",
+    "gift": "Liko gauti dovaną",
+    "friends": "draugai iš",
+    "acceptable_for_use": {
+      "invited": "Oho, pakvietėte ",
+      "friends": "draugai."
+    },
+    "used": "Sveiki, dovana gauta.",
+    "copied": "Kodas nukopijuotas"
+  }
+}

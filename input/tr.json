@@ -1,0 +1,413 @@
+{
+  "app": "hoş geldiniz",
+  "app_desc": "Hizmetleri tek bir tıklamayla arayın!",
+  "titles": {
+    "welcome": "MY GIN'e",
+    "rating": "Değerlendirme"
+  },
+  "locales": {
+    "ru": "Русский",
+    "uk": "Українська",
+    "pl": "Polska",
+    "es": "Español",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Românesc",
+    "sk": "Slovenská",
+    "hu": "Magyar",
+    "el": "Ελληνικά",
+    "tr": "Türkçe",
+    "lt": "Lietuvių",
+    "et": "Eesti keel",
+    "ka": "ქართული",
+    "sr": "Српски",
+    "hy": "հայերեն"
+  },
+  "distances": {
+    "km": "km"
+  },
+  "currencies": {
+    "uah": "UAH"
+  },
+  "header": {
+    "back": "Geri",
+    "send": "Göndermek",
+    "customer": "Müşteri",
+    "executor": "İcracı",
+    "helping": "Destek",
+    "close": "İptal etmek",
+    "reset": "Sıfırlamak",
+    "search": "Aramak",
+    "vip": "vip",
+    "rooms": "Sohbet",
+    "my_card": "Kartvizitim",
+    "report_list": "Destek",
+    "review": "Görüşleriniz"
+  },
+  "messages": {
+    "confirm_phone": "Telefon numarasını doğrula",
+    "create_order": "Sipariş için teşekkür ederiz!",
+    "saved": "Kaydedildi!",
+    "create_application": "Başvuru yapıldı!",
+    "create_top": "Üstü satın aldığınız için teşekkür ederiz!",
+    "create_vip": "Satın aldığınız için teşekkür ederiz",
+    "radiuses": {
+      "radius_10": "10 km yarıçap!",
+      "radius_20": "20 km yarıçap!",
+      "radius_30": "30 km yarıçap!",
+      "radius_unlimited": "yarıçapı sınırsız!"
+    },
+    "bad_getaway_error": "Sunucu geçici olarak kullanılamıyor",
+    "report_created": "İstek gönderildi!",
+    "review_created": "İnceleme gönderildi!",
+    "removed": "Sipariş silindi!",
+    "unauthorized": "Kayıtlı değilsiniz, lütfen kayıt olun",
+    "unverified": {
+      "title": "doğrulanmadın",
+      "desc": "Doğrulanmadınız, lütfen bilgilerinizi tekrar gönderin"
+    },
+    "new_request_title": "için yeni bir yanıt aldınız.",
+    "new_request_subtitle": "emir",
+    "choice_executor_title": "Tebrikler! ",
+    "choice_executor_subtitle": "sipariş uygulayıcısı"
+  },
+  "home": {
+    "hello": "Merhaba, ",
+    "not_authorize": "Yetkili değilsiniz",
+    "what_we_search": "Arama"
+  },
+  "sign_in": {
+    "subtitle": "Telefonunuzu girin",
+    "footer": "Uygulamanın tüm özelliklerini kullanabilmek için - kayıt olun",
+    "sign_up_warning": "Henüz kayıtlı değilseniz, lütfen kayıt olun",
+    "referral_code_title": "Yönlendirme kodunu girin",
+    "sign_in_facebook": "Facebook ile devam et",
+    "sign_in_google": "Google ile devam et",
+    "sign_in_apple": "Apple üzerinden devam et",
+    "or": "yada",
+    "terms-of-use_1": "Bir My Gin profili oluşturarak siz",
+    "kullanım şartları_2": "kabul ediyorum",
+    "terms-of-use_3": "Kullanım Koşulları",
+    "have_referral_code": "Bir tavsiye kodum var"
+  },
+  "errors": {
+    "required": "Zorunlu alan",
+    "to_short": "Çok kısa",
+    "to_long": "Çok uzun",
+    "invalid_phone": "Geçersiz telefon numarası",
+    "invalid_email": "Geçersiz e-posta",
+    "share_location_failed": "Coğrafi verileriniz alınamadı",
+    "verification": {
+      "required": "Tüm fotoğraflar gereklidir",
+      "back_missing": "İkinci fotoğraf eksik",
+      "front_missing": "ilk fotoğraf eksik",
+      "face_missing": "Yüz fotoğrafı eksik"
+    },
+    "invalid_avatar": "fotoğrafını seç",
+    "incorrect_address": "Adres yanlış girildi"
+  },
+  "sign_up": {
+    "fields": {
+      "full_name": "Ad Soyad",
+      "phone": "Cep telefonu",
+      "email": "E-posta",
+      "location": "GEO konumu",
+      "address": "Adresiniz",
+      "specialization": "uzmanlık",
+      "tags": "Ne yapıyorsun?",
+      "about_me": "Hakkımda",
+      "change_specialization": "Uzmanlığı seçmek"
+    },
+    "share_location": "Konumumu paylaşmak",
+    "tags_desc": "Listede olmayan uzmanlığı yazabilirsiniz.",
+    "phone_add": "Telefon ekle",
+    "modal": {
+      "title": "Belirtilen yarıçaptaki kişileri bulmak için my Gin uygulamasının konum servislerini kullanması gerekiyor.",
+      "button": "Konumu paylaş"
+    }
+  },
+  "confirm_code": {
+    "type_code": "ile kodu girin",
+    "resend": "_ üzerinden tekrar",
+    "after": "göndermek",
+    "footer": "Uygulamanın tüm özelliklerini kullanabilmek için - ",
+    "to_sign_up": "Kayıt olun"
+  },
+  "order_form": {
+    "title": "Hizmeti sipariş etmek",
+    "negotiable_price": "Pazarlık edilebilir fiyat",
+    "tags_note": "Listede istediğiniz uzmanlığı bulamadıysanız etiketleri kendiniz yazabilirsiniz.",
+    "share_location": "Konumumu paylaşmak",
+    "fields": {
+      "labels": {
+        "title": "Görev adı",
+        "desc": "Ne yapmak lazım?",
+        "price": "Fiyat belirtmek (isteğe bağlı)",
+        "location": "Siparişinizin hangi yarıçapta görünmesini istiyorsunuz?",
+        "deadline": "Ne zaman için hazır olmalı?",
+        "speciality": "Kime ihtiyacınız var?",
+        "tags": "Etiket eklemek",
+        "geo": "GEO konumu"
+      },
+      "share_location": "Konumumu paylaşmak",
+      "placeholders": {
+        "title": "Başlık ekle",
+        "desc": "açıklama ekle",
+        "price": "Örneğin, 200",
+        "change_specialization": "Uzmanlığı seçmek",
+        "address": "Adresiniz"
+      }
+    },
+    "remove": "Siparişi silmek istediğinizden emin misiniz?",
+    "modal": {
+      "title": "My Gin uygulamasının, belirtilen yarıçap içindeki kişileri bulmak için konum hizmetlerini kullanması gerekir.",
+      "button": "Konumu paylaş"
+    },
+    "dead_lines": {
+      "quickly": "acil",
+      "slowly": "acil değil",
+      "on_week": "hafta boyunca"
+    },
+    "photo_add": "Fotoğraf ekle"
+  },
+  "profile_list": {
+    "verification": {
+      "verificated": "Doğrulandı",
+      "verificating": "Kontrol",
+      "not_verificate": "Doğrulama geçmek"
+    },
+    "verification_status": {
+      "verificated": "Kontrol edildi",
+      "verificating": "Kontrol",
+      "not_verificate": "Kontrol edilmedi"
+    },
+    "modal": {
+      "title": "Profili silmek istediğinizden emin misiniz?",
+      "title_logout": "Çıkmak istediğine emin misin?",
+      "title_update": "Adı değiştirirken yeniden doğrulamanız gerekir"
+    },
+    "my_orders": "Siparişlerim",
+    "my_res": "Yorumlar",
+    "my_card": "Kartvizitim",
+    "change_lang": "Dil seçmek",
+    "info": "Bilgi",
+    "reviews": "Yorumlar",
+    "verificiation_desc": "Deneyimlerimize dayanarak, doğrulanmış kullanıcılar daha güvenilirdir",
+    "address": "Adres:",
+    "phone": "Telefon:",
+    "description": "Hakkımda:",
+    "finished_tasks": "Tamamlanan siparişler:",
+    "created_at": "Kayıtlı:",
+    "null": "dolu değil",
+    "logout": "Çıkmak",
+    "year": "Yılın",
+    "remove": "Profili silmek",
+    "image_picker": "kullanıcıyı tanımlamak için yalnızca gerçek fotoğrafınızı yüklemeniz gerekir",
+    "settings": "Ayarlar",
+    "referral_program": "Tavsiye Programı"
+  },
+  "verification": {
+    "title": "Doğrulama",
+    "upload_front": "Pasaportunuzun ilk sayfasının veya kimlik kartınızın fotoğrafını yükleyin",
+    "upload_back": "Pasaportunuzun ikinci sayfasının veya kimlik kartınızın fotoğrafını yükleyin",
+    "upload_face": "Yüzünüzün net bir şekilde görüldüğü bir fotoğrafınızı yükleyin. Bu kişisel tanımlama için gereklidir.",
+    "add_photo": "+Fotoğraf eklemek"
+  },
+  "filter": {
+    "title": "Filtreler",
+    "change_specialization": "Uzmanlığı seçmek",
+    "specialization_max": "En fazla 7 uzmanlık",
+    "specialization_min": "En fazla 7 uzmanlık",
+    "tags": "Listede olmayan uzmanlığı yazabilirsiniz.",
+    "radius": "Bir yarıçap seçin",
+    "modal": {
+      "title1": "Bu yarıçapı seçmek için",
+      "title2": "yarıçapı satın alın",
+      "button": "Bakmak"
+    }
+  },
+  "order_list": {
+    "title": "Siparişlerim",
+    "footer": "Emir",
+    "contract": "Tartışmaya açık"
+  },
+  "order_detail": {
+    "created_at": "Katma",
+    "payment": "Ödeme:",
+    "desc": "Tanım:",
+    "contract": "Tartışmaya açık",
+    "create_review": "Yorum yazmak",
+    "user": {
+      "created_at": "Kayıtlı:",
+      "year": "Yılın"
+    },
+    "from_you": "sizden"
+  },
+  "executors_list": {},
+  "executor_detail": {
+    "call": "Aramak",
+    "go_to_chat": "İleti",
+    "address": "Adres",
+    "phone": "Telefon",
+    "desc": "Hakkımda",
+    "task_completed": "Tamamlanmış siparişler",
+    "created_at": "Kayıtlı",
+    "was": "di)"
+  },
+  "application_form": {
+    "title": "Başvuru göndermek",
+    "fields": {
+      "placeholders": {
+        "comment": "Yorum yazmak",
+        "price": "Örneğin, 200"
+      },
+      "labels": {
+        "price": "Fiyatınız",
+        "comment": "Yorum",
+        "photo_add": "Fotoğraf ekle"
+      }
+    }
+  },
+  "application_list": {
+    "title": "Başvurularım"
+  },
+  "roles": {
+    "executor": "İcracıyım",
+    "customer": "Müşteriyim"
+  },
+  "buttons": {
+    "sign_in": "Giriş yapmak",
+    "sign_up": "Kayıt olun",
+    "already_registered": "Zaten kayıtlı?",
+    "join_to_us": "Bize katılın ",
+    "send": "Göndermek",
+    "to_sign_up": "Kayıt olun",
+    "order": "Emir",
+    "save": "Kaydetmek",
+    "leave_application": "Başvuru göndermek",
+    "edit": "Düzeltmek",
+    "confirm_executor": "Seçmek",
+    "reply": "Cevap vermek",
+    "activated": "Aktif",
+    "buy": "Almak",
+    "remove": "Silmek",
+    "yes": "Evet",
+    "no": "HAYIR",
+    "cancel": "İptal etmek",
+    "open": "Gitmek",
+    "promo_code": "promosyon kodum var",
+    "get": "Elde etmek"
+  },
+  "tabBar": {
+    "search": "Aramak",
+    "chat": "Sohbet",
+    "vip": "VIP",
+    "profile": "Profilim",
+    "application": "Başvurular",
+    "favorite": "Favoriler",
+    "order": "Emir"
+  },
+  "image_picker": {
+    "gallery": "Galeriden fotoğraf seçmek",
+    "camera": "Fotoğraf yapmak"
+  },
+  "response_list": {
+    "title": "yanıtlarım",
+    "show_all_request": "Tüm yanıtları göster",
+    "created_at": "Katma",
+    "km": "km"
+  },
+  "vip": {
+    "top": {
+      "title": "Top",
+      "desc": "Liste başına çıkmak (3-7-14 gün için)",
+      "day": "_ gün",
+      "days": "_ gün",
+      "end_time": "kadar geçerli"
+    },
+    "work_on": "Konumlarınızdan",
+    "desc": " kadar yarıçapta bulunan kişilerin siparişleri görüntülenir",
+    "to": "kadar",
+    "duration": "Geçerlilik 1 ay"
+  },
+  "vip_statuses": {
+    "radius_10": "10 km yarıçapı",
+    "radius_20": "20 km yarıçapı",
+    "radius_30": "30 km yarıçapı",
+    "radius_100": "100 km yarıçapı",
+    "radius_unlimited": "Yarıçap sınırsız",
+    "radius_unlimited_12": "Yarıçap sınırsız 12 ay boyunca"
+  },
+  "room_list": {
+    "modal": {
+      "title": "Sohbeti silmek istediğinizden emin misiniz? "
+    }
+  },
+  "room_detail": {
+    "form": {
+      "plaseholders": {
+        "type_message": "Mesaj yazmak"
+      }
+    },
+    "was_in": "yaklaşık saat önce çevrimiçiydi"
+  },
+  "user_statuses": {
+    "online": "Çevrimiçi",
+    "offline": "çevrimdışı"
+  },
+  "favorite_list": {
+    "sorters": {
+      "by_time": "Zamana göre",
+      "by_distance": "Mesafeye göre"
+    },
+    "placeholder": "Ad Soyad",
+    "empty": "Favori listesi boş İhtiyacınız olan kişileri eklemek için Arama'ya gidin"
+  },
+  "report_types": {
+    "it": "BT",
+    "consultation": "Danışma",
+    "complaint": "Şikayet",
+    "add_specialty": "uzmanlığı eklemek",
+    "viber": "Viber",
+    "tg": "Telgraf"
+  },
+  "report_create": {
+    "text": "* Mesajınız",
+    "share_file": "Dosyayı eklemek"
+  },
+  "review_create": {
+    "rating": "Seviye",
+    "text": {
+      "label": "Gözden geçirmek",
+      "placeholder": "Örneğin, Mükemmel işi yaptı"
+    },
+    "photo_add": "Fotoğraf ekle"
+  },
+  "logged_modal": {
+    "title": "Daha fazla özelliğe sahip olmak için kayıt olmanız gerekiyor!",
+    "button": "Giriş yapmak"
+  },
+  "success_modal": {
+    "title": "Bu sanatçıyı başarıyla seçtiniz!",
+    "button": "kapalı"
+  },
+  "use_promo_code_modal": {
+    "title": "promosyon kodu",
+    "button_apply": "Uygula",
+    "button_cancel": "İptal etmek",
+    "input_placeholder": "Promosyon kodunuzu giriniz"
+  },
+  "referral_program": {
+    "title": "Bir arkadaş iste ve hediye al",
+    "gift": "Hediye almak için gitti",
+    "friends": "arkadaşlar",
+    "acceptable_for_use": {
+      "invited": "Yaşasın, V talep edildi",
+      "friends": "arkadaşlar"
+    },
+    "used": "Yaşasın, hediye alındı!",
+    "copied": "Kod kopyalandı"
+  }
+}

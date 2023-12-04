@@ -1,0 +1,418 @@
+{
+  "app": "my Gin",
+  "app_desc": "Wyszukaj usługi jednym kliknięciem!",
+  "titles": {
+    "welcome": "Zapraszamy do",
+    "rating": "Ocena"
+  },
+  "locales": {
+    "ru": "Русский",
+    "uk": "Українська",
+    "pl": "Polska",
+    "es": "Español",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Românesc",
+    "sk": "Slovenská",
+    "hu": "Magyar",
+    "el": "Ελληνικά",
+    "tr": "Türkçe",
+    "lt": "Lietuvių",
+    "et": "Eesti keel",
+    "ka": "ქართული",
+    "sr": "Српски",
+    "hy": "հայերեն"
+  },
+  "distances": {
+    "km": "km"
+  },
+  "currencies": {
+    "uah": "uah"
+  },
+  "header": {
+    "back": "Z powrotem",
+    "send": "Wysłać",
+    "customer": "Klient",
+    "executor": "Wykonawca",
+    "helping": "Wsparcie",
+    "close": "Anulować",
+    "reset": "Zresetuj",
+    "search": "Wyszukiwanie",
+    "vip": "Vip",
+    "rooms": "Czat",
+    "my_card": "Moja wizytówka",
+    "report_list": "Wsparcie",
+    "review": "swoją opinię"
+  },
+  "messages": {
+    "confirm_phone": "Potwierdź numer telefonu",
+    "create_order": "Dziękujemy za zamówienie!",
+    "saved": "Zapisane!",
+    "create_application": "Aplikacja jest pozostawiona!",
+    "create_top": "Dzięki za zakup topu!",
+    "create_vip": "Dziękujemy za zakupy",
+    "radiuses": {
+      "radius_10": "promień 10 km!",
+      "radius_20": "promień 20 km!",
+      "radius_30": "promień 30 km!",
+      "radius_unlimited": "promień jest nieograniczony!"
+    },
+    "bad_getaway_error": "Serwer jest tymczasowo niedostępny",
+    "report_created": "Odwołanie jest wysyłane!",
+    "review_created": "Recenzja jest wysłana!",
+    "removed": "Zamówienie jest usuwane!",
+    "unauthorized": "Nie jesteś zarejestrowany, zarejestruj się",
+    "unverified": {
+      "title": "Nie jesteś zweryfikowany",
+      "desc": "Nie przeszedłeś weryfikacji, prześlij ponownie swoje dane"
+    },
+    "new_request_title": "Otrzymałeś nową odpowiedź",
+    "new_request_subtitle": "dotyczącą Twojego zamówienia",
+    "choice_executor_title": "Gratulacje! Zostałeś wybrany",
+    "choice_executor_subtitle": "jako wykonawca zlecenia"
+  },
+  "home": {
+    "hello": "Cześć, ",
+    "not_authorize": "Nie jesteś zalogowany",
+    "what_we_search": "Szukaj mistrza"
+  },
+  "sign_in": {
+    "subtitle": "Wpisz swój telefon",
+
+    "footer": "Aby korzystać ze wszystkich funkcji aplikacji - zarejestruj się",
+    "sign_up_warning": "Jeśli nie jesteś jeszcze zarejestrowany, zarejestruj się",
+    "referral_code_title": "Przedstaw polecany kod",
+    "sign_in_facebook": "Kontynuuj z Facebook",
+    "sign_in_google": "Kontynuuj z Google",
+    "sign_in_apple": "Kontynuuj z Apple",
+    "or": "albo",
+    "terms-of-use_1": "Tworząc profil My Gin, ty",
+    "terms-of-use_2": "zgadzam się z",
+    "terms-of-use_3": "Warunki użytkowania",
+    "have_referral_code": "Mam kod polecający"
+  },
+  "errors": {
+    "required": "Pole wymagane",
+    "to_short": "Zbyt krótki",
+    "to_long": "To za długo",
+    "invalid_phone": "Niepoprawny numer telefonu",
+    "invalid_email": "Błędny email",
+    "share_location_failed": "Nie zadziałało, aby zdobyć geodatę",
+    "verification": {
+      "required": "Wszystkie zdjęcia są wymagane",
+      "back_missing": "Nie ma drugiego zdjęcia",
+      "front_missing": "Nie ma pierwszego zdjęcia",
+      "face_missing": "Nie ma zdjęcia twarzy"
+    },
+    "invalid_avatar": "Wybierz swoje zdjęcie",
+    "incorrect_address": "Adres nie został wpisany poprawnie"
+  },
+  "sign_up": {
+    "fields": {
+      "full_name": "Nazwisko, imię (imiona)",
+      "phone": "Telefon komórkowy",
+      "email": "Email",
+      "location": "Geolokalizacja",
+      "address": "Twój adres",
+      "specialization": "Specjalność",
+      "tags": "Czym się zajmujesz?",
+      "about_me": "O sobie",
+      "change_specialization": "Wybierz zawód"
+    },
+    "share_location": "Udostępnij geolokalizację",
+    "tags_desc": "Możesz napisać zawód, którego nie ma na liście",
+    "phone_add": "Dodaj telefon",
+    "modal": {
+      "title": "Aplikacja my Gin musi korzystać z usług lokalizacyjnych, aby znaleźć osoby w określonym promieniu",
+      "button": "Udostępnij geolokalizację"
+    }
+  },
+  "confirm_code": {
+    "type_code": "Wprowadź kod с",
+    "resend": "Wyślij ponownie",
+    "after": "przez",
+
+    "footer": "Aby użyć wszystkich funkcji aplikacji - ",
+    "to_sign_up": "Zarejestruj"
+  },
+  "order_form": {
+    "title": "Zamów usługę",
+    "negotiable_price": "Cena jest umowna",
+    "tags_note": "Możesz sam napisać tagi, jeśli nie znalazłeś odpowiedniej specjalności na liście",
+    "share_location": "Udostępnij geolokalizację",
+    "fields": {
+      "labels": {
+        "title": "Nazwa zadania",
+        "desc": "Co potrzebno zrobić?",
+        "price": "Napisz cenę (opcjonalnie).",
+        "location": "W jakim promieniu chcesz, aby Twoje zamówienie było widoczne?",
+        "deadline": "Na kiedy?",
+        "speciality": "Kogo potrzebujesz?",
+        "tags": "Dodaj tagi",
+        "geo": "Geolokalizacja"
+      },
+      "share_location": "Udostępnij geolokalizację",
+      "placeholders": {
+        "title": "Dodaj nazwę",
+        "desc": "Dodaj opis",
+        "price": "Przykładowo, 200",
+        "change_specialization": "Wybierz zawód",
+        "address": "Twój adres"
+      }
+    },
+    "remove": "Czy na pewno chcesz usunąć zamówienie?",
+    "modal": {
+      "title": "Aplikacja My Gin musi korzystać z usług geolokalizacyjnych do wyszukiwania osób w określonym promieniu",
+      "button": "Udostępnij geolokalizację"
+    },
+    "dead_lines": {
+      "quickly": "pilnie",
+      "slowly": "nie pilnie",
+      "on_week": "w ciągu tygodnia"
+    },
+    "photo_add": "Dodaj zdjęcie"
+  },
+  "profile_list": {
+    "verification": {
+      "verificated": "Zweryfikowane",
+      "verificating": "W kratę",
+      "not_verificate": "Przejdź przez weryfikację"
+    },
+    "verification_status": {
+      "verificated": "Zweryfikowany",
+      "verificating": "W kratę",
+      "not_verificate": "Nie zweryfikowany"
+    },
+    "modal": {
+      "title": "Czy na pewno chcesz usunąć profil?",
+      "title_logout": "Czy na pewno chcesz się wylogować?",
+      "title_update": "Zmieniając nazwisko, musisz ponownie przejść weryfikację"
+    },
+    "my_orders": "Moje zamówienia",
+    "my_res": "Odpowiedzi",
+    "my_card": "Moja wizytówka",
+    "change_lang": "Wybierz język",
+
+    "info": "Informacja",
+    "reviews": "Recenzje",
+    "verificiation_desc": "Z naszego doświadczenia wynika, że zweryfikowani użytkownicy są bardziej godni zaufania",
+    "address": "Adres:",
+    "phone": "Telefon:",
+    "description": "O sobie:",
+    "finished_tasks": "Wykonano zamówień:",
+    "created_at": "Zarejestrowany:",
+    "null": "Nie wypełnione",
+    "logout": "Wyloguj się",
+    "year": "roku",
+    "remove": "Usuń profil",
+    "image_picker": "aby zidentyfikować użytkownika, musisz przesłać tylko swoje prawdziwe zdjęcie",
+    "settings": "Ustawienia",
+    "referral_program": "Program poleceń"
+  },
+  "verification": {
+    "title": "Weryfikacja",
+    "upload_front": "Prześlij zdjęcie pierwszej strony paszportu lub dowodu osobistego",
+    "upload_back": "Prześlij zdjęcie drugiej strony paszportu lub dowodu osobistego",
+    "add_photo": "+ Dodaj zdjęcie",
+    "upload_face": "Prześlij swoje zdjęcie z wyraźnie widoczną twarzą. Jest to konieczne do identyfikacji osobistej."
+  },
+  "filter": {
+    "title": "Filtr",
+    "change_specialization": "Wybierz zawód",
+    "specialization_max": "Maks. 7 specjalności",
+    "specialization_min": "Minimum 1 specjalność",
+    "tags": "Możesz wpisać własny zawód, jeśli nie ma jego na liście",
+    "radius": "Wybierz promień",
+    "modal": {
+      "title1": "Kup taryfę",
+      "title2": "aby wybrać ten promień",
+
+      "button": "Patrzeć"
+    }
+  },
+  "order_list": {
+    "title": "Moje zamówienia",
+    "footer": "Zamów",
+    "contract": "Do uzgodnienia"
+  },
+  "order_detail": {
+    "created_at": "Dodane",
+    "payment": "Płatność:",
+    "desc": "Opis:",
+    "contract": "Do uzgodnienia",
+    "create_review": "Wyraź opinię",
+    "user": {
+      "created_at": "Zarejestrowany z",
+      "year": "roku"
+    },
+    "from_you": "od Ciebie"
+  },
+  "executors_list": {},
+  "executor_detail": {
+    "call": "Zadzwoń",
+    "go_to_chat": "Wiadomości",
+    "address": "Adres",
+    "phone": "Telefon",
+    "desc": "O sobie",
+    "task_completed": "Wykonanych zamówień",
+    "created_at": "Zarejestrowany",
+    "was": "był(a)"
+  },
+  "application_form": {
+    "title": "Zostaw zamówienie",
+    "fields": {
+      "placeholders": {
+        "comment": "Napisz komentarz",
+        "price": "Przykładowo, 200"
+      },
+      "labels": {
+        "price": "Twoja cena",
+        "comment": "Komentarz",
+        "photo_add": "Dodaj zdjęcie"
+      }
+    }
+  },
+  "application_list": {
+    "title": "Moje zamówienia"
+  },
+  "roles": {
+    "executor": "Jestem wykonawcą",
+    "customer": "Jestem klientem"
+  },
+  "buttons": {
+    "sign_in": "Zaloguj się",
+    "sign_up": "Zarejestruj",
+    "already_registered": "Masz ję zarejestrowany?",
+    "join_to_us": "Dołączyć ",
+    "send": "Wysłać",
+    "to_sign_up": "Zarejestruj",
+    "order": "Zamów",
+    "save": "Zapisz",
+    "leave_application": "Zostaw zamówienie",
+    "edit": "Edytuj",
+    "confirm_executor": "Wybierać",
+    "reply": "Odpowiedź",
+    "activated": "Aktywny",
+    "buy": "Kup",
+    "remove": "Usuwać",
+    "yes": "Tak",
+    "no": "Nie",
+    "cancel": "Anuluj",
+    "open": "Idź",
+    "promo_code": "Mam kod promocyjny",
+    "get": "Dostawać"
+  },
+  "tabBar": {
+    "search": "Wyszukaj",
+    "chat": "Czat",
+    "vip": "Vip",
+    "profile": "Mój profil",
+    "application": "Aplikacja",
+    "favorite": "Ulubione",
+    "order": "Zamów"
+  },
+  "image_picker": {
+    "gallery": "Wybierz zdjęcie z galerii",
+    "camera": "Zrób zdjęcie"
+  },
+  "response_list": {
+    "title": "Moje odpowiedzi",
+    "show_all_request": "Показать все отклики",
+    "created_at": "Dodany",
+    "km": "km"
+  },
+  "vip": {
+    "top": {
+      "title": "Top",
+      "desc": "Przejdź w górę listy (o 3-7-14 dni)",
+      "day": "dni",
+      "days": "dniów",
+      "end_time": "ważne do"
+    },
+    "work_on": "Zamówienia są wyświetlane w promieniu do ",
+    "desc": " od ich lokalizacji geograficznej",
+    "to": "Do",
+    "duration": "Okres ważności 1 miesiąc"
+  },
+  "vip_statuses": {
+    "radius_10": "Promień 10 km",
+    "radius_20": "Promień 20 km",
+    "radius_30": "Promień 30 km",
+    "radius_100": "Promień 100 km",
+    "radius_unlimited": "Promień nieograniczony",
+    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+  },
+  "room_list": {
+    "modal": {
+      "title": "Czy na pewno chcesz usunąć czat? "
+    }
+  },
+  "room_detail": {
+    "form": {
+      "plaseholders": {
+        "type_message": "Napisz wiadomość"
+      }
+    },
+    "was_in": "był(a) online"
+  },
+
+  "user_statuses": {
+    "online": "online",
+    "offline": "Offline"
+  },
+  "favorite_list": {
+    "sorters": {
+      "by_time": "Według odległości",
+      "by_distance": "Według odległości"
+    },
+    "placeholder": "Imię Nazwisko",
+    "empty": "Lista ulubionych jest pusta \n Przejdź do Wyszukiwania, aby dodać potrzebnych ludzi"
+  },
+  "report_types": {
+    "it": "IT",
+    "consultation": "Konsultacja",
+    "complaint": "Skarga",
+    "add_specialty": "Dodaj specjalizację",
+    "viber": "Viber",
+    "tg": "Telegram"
+  },
+  "report_create": {
+    "text": "* Twoja wiadomość",
+    "share_file": "załącz plik"
+  },
+  "review_create": {
+    "rating": "ocena",
+    "text": {
+      "label": "Recenzja",
+      "placeholder": "Na przykład doskonała praca wykonała pracę"
+    },
+    "photo_add": "Dodaj zdjęcie"
+  },
+  "logged_modal": {
+    "title": "Aby mieć więcej możliwości, musisz się zarejestrować!",
+    "button": "Авторизуватись"
+  },
+  "success_modal": {
+    "title": "Pomyślnie wybrałeś tego wykonawcę!",
+    "button": "blisko"
+  },
+  "use_promo_code_modal": {
+    "title": "Kod promocyjny",
+    "button_apply": "Zastosuj",
+    "button_cancel": "Anuluj",
+    "input_placeholder": "Wprowadź swój kod promocyjnyv"
+  },
+  "referral_program": {
+    "title": "Zaproś znajomego i odbierz prezent",
+    "gift": "Pozostało otrzymać prezent",
+    "friends": "znajomi z",
+    "acceptable_for_use": {
+      "invited": "Wow, zaprosiłeś ",
+      "friends": "przyjaciele."
+    },
+    "used": "Brawo, prezent otrzymany.",
+    "copied": "Kod skopiowany"
+  }
+}

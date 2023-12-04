@@ -1,0 +1,422 @@
+{
+  "app": "my Gin",
+  "app_desc": "¡Busca servicios en un clic!",
+
+  "titles": {
+    "welcome": "Bienvenido a",
+    "rating": "Evaluación"
+  },
+  "locales": {
+    "ru": "Русский",
+    "uk": "Українська",
+    "pl": "Polska",
+    "es": "Español",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Românesc",
+    "sk": "Slovenská",
+    "hu": "Magyar",
+    "el": "Ελληνικά",
+    "tr": "Türkçe",
+    "lt": "Lietuvių",
+    "et": "Eesti keel",
+    "ka": "ქართული",
+    "sr": "Српски",
+    "hy": "հայերեն"
+  },
+  "distances": {
+    "km": "kilómetros"
+  },
+  "currencies": {
+    "uah": "UAH"
+  },
+  "header": {
+    "back": "atrás",
+    "send": "Mandar",
+    "customer": "Cliente",
+    "executor": "Ejecutor",
+    "helping": "Soporte",
+    "close": "Cancelar",
+    "reset": "Restablecer",
+    "search": "Búsqueda",
+    "vip": "Vip",
+    "rooms": "Chat",
+    "my_card": "mi tarjeta de visita",
+    "report_list": "Soporte",
+    "review": "Tu retroalimentación"
+  },
+  "messages": {
+    "confirm_phone": "Confirmar número de teléfono",
+    "create_order": "¡Gracias por su orden!",
+    "saved": "¡Salvado!",
+    "create_application": "Solicitud izquierda!",
+    "create_top": "¡Gracias por comprar esta camiseta!",
+    "create_vip": "Gracias por su compra",
+    "radiuses": {
+      "radius_10": "radio de 10 km!",
+      "radius_20": "radio de 20 km!",
+      "radius_30": "radio de 30 km!",
+      "radius_unlimited": "Radio ilimitado!"
+    },
+    "bad_getaway_error": "El servidor no está disponible temporalmente.",
+    "report_created": "¡Se abandona el contacto con el soporte técnico!",
+    "review_created": "Comentarios enviados!",
+    "removed": "Pedido eliminado!",
+    "unauthorized": "No estás registrado, por favor regístrate",
+    "unverified": {
+      "title": "no estas verificado",
+      "desc": "No pasaste la verificación, por favor reenvía tus datos"
+    },
+    "new_request_title": "Has recibido una nueva respuesta",
+    "new_request_subtitle": "sobre tu pedido.",
+    "choice_executor_title": "¡Felicidades! Ha sido elegido",
+    "choice_executor_subtitle": "como ejecutor de la orden"
+  },
+  "home": {
+    "hello": "Hola, ",
+    "not_authorize": "Usted no está autorizado",
+    "what_we_search": "Buscar un maestro"
+  },
+  "sign_in": {
+    "subtitle": "Introduzca su teléfono",
+
+    "footer": "Para utilizar todas las funciones de la aplicación — regístrese",
+    "sign_up_warning": "Si aún no está registrado, por favor, regístrese",
+    "referral_code_title": "Ingrese el código de referencia",
+    "sign_in_facebook": "Continuar con Facebook",
+    "sign_in_google": "Continuar con Google",
+    "sign_in_apple": "Continuar con Apple",
+    "or": "o",
+    "terms-of-use_1": "Al crear un perfil de My Gin, usted",
+    "terms-of-use_2": "de acuerdo con",
+    "terms-of-use_3": "Términos de Uso",
+    "have_referral_code": "Tengo un código de referencia"
+  },
+  "errors": {
+    "required": "Campo obligatorio",
+    "to_short": "Demasiado corto",
+    "to_long": "Demasiado largo",
+    "invalid_phone": "Número de teléfono incorrecto",
+    "invalid_email": "Email incorrecto",
+    "share_location_failed": "Error al recuperar sus geodatos",
+    "verification": {
+      "required": "Todas las fotos son obligatorias.",
+      "back_missing": "falta la segunda foto",
+      "front_missing": "falta la primera foto",
+      "face_missing": "no hay foto de la cara"
+    },
+    "invalid_avatar": "Elige tu foto",
+    "incorrect_address": "La dirección no se ingresó correctamente"
+  },
+  "sign_up": {
+    "fields": {
+      "full_name": "Nombre completo",
+      "phone": "Teléfono móvil",
+      "email": "Email",
+      "location": "Geolocalización",
+      "address": "Su dirección",
+      "specialization": "Especialidad",
+      "tags": "¿A qué se dedica Usted?",
+      "about_me": "Sobre mí",
+      "change_specialization": "Elija la especialidad"
+    },
+    "share_location": "Compartir mi geolocalización",
+    "tags_desc": "Puede escribir una especialidad que no hay en la lista",
+    "phone_add": "Agregar teléfono",
+    "modal": {
+      "title": "La aplicación my Gin necesita usar los servicios de geolocalización para encontrar personas dentro del radio especificado",
+      "button": "Compartir geolocalización"
+    }
+  },
+  "confirm_code": {
+    "type_code": "Introduce el código de",
+    "resend": "Cliente de nuevo",
+    "after": "por",
+
+    "footer": "Para utilizar todas las funciones de la aplicación - ",
+    "to_sign_up": "regístrese"
+  },
+  "order_form": {
+    "title": "Ordenar un servicio",
+    "negotiable_price": "El precio es negociable",
+    "tags_note": "Puede escribir etiquetas usted mismo si no encontró la especialidad necesaria en la lista",
+    "share_location": "Compartir mi geolocalización",
+    "fields": {
+      "labels": {
+        "title": "Nombre de tarea",
+        "desc": "¿Qué se debe hacer?",
+        "price": "Introducir un precio (No obligatorio)",
+        "location": "¿En qué radio quieres que se vea tu pedido?",
+        "deadline": "¿Cuándo?",
+        "speciality": "¿A quién necesita?",
+        "tags": "Agregar etiquetas",
+        "geo": "Geolocalización"
+      },
+      "share_location": "Compartir mi geolocalización",
+      "placeholders": {
+        "title": "Agregar nombre",
+        "desc": "Agregar descripción",
+        "price": "Por ejemplo, 200",
+        "change_specialization": "Elija la especialidad",
+        "address": "Su dirección"
+      }
+    },
+    "remove": "¿Está seguro de que desea eliminar el pedido?",
+    "modal": {
+      "title": "La aplicación my Gin necesita usar los servicios de geolocalización para encontrar personas dentro del radio especificado",
+      "button": "Compartir geolocalización"
+    },
+    "dead_lines": {
+      "quickly": "urgentemente",
+      "slowly": "no urgente",
+      "on_week": "Durante una semana"
+    },
+    "photo_add": "Añadir una foto"
+  },
+  "profile_list": {
+    "verification": {
+      "verificated": "Comprobado",
+      "verificating": "esta comprobado",
+      "not_verificate": "Pasar la verificación"
+    },
+    "verification_status": {
+      "verificated": "Comprobado",
+      "verificating": "esta comprobado",
+      "not_verificate": "No comprobado"
+    },
+    "modal": {
+      "title": "¿Está seguro de que desea eliminar el perfil?",
+      "title_logout": "¿Está seguro de que desea cerrar la sesión?",
+      "title_update": "Al cambiar el nombre, debe someterse a verificación nuevamente"
+    },
+    "my_orders": "Mis pedidos",
+    "my_res": "Comentarios sobre el pedido",
+    "my_card": "mi tarjeta de visita",
+    "change_lang": "Seleccionar un idioma",
+
+    "info": "Información",
+    "reviews": "Reseñas",
+    "verificiation_desc": "Según nuestra experiencia los usuarios verificados son más confiables",
+    "address": "Dirección:",
+    "phone": "Teléfono:",
+    "description": "Sobre mí:",
+    "finished_tasks": "Órdenes cumplidas:",
+    "created_at": "Registrado:",
+    "null": "No llenado",
+    "logout": "Cerrar sesión",
+    "year": "año",
+    "remove": "Eliminar perfil",
+
+    "image_picker": "para identificar al usuario, solo necesita cargar su foto real",
+    "settings": "Configuraciones",
+    "referral_program": "Programa de recomendación"
+  },
+  "verification": {
+    "title": "Verificación",
+    "upload_front": "Suba una foto de la primera página de su pasaporte o tarjeta de identificación",
+    "upload_back": "Suba una foto de la segunda página de su pasaporte o tarjeta de identificación",
+    "upload_face": "Suba su foto con la cara bien visible. Es necesario para la identificación personal.",
+
+    "add_photo": "+ Añadir una foto"
+  },
+  "filter": {
+    "title": "Filtros",
+    "change_specialization": "Elija la especialidad",
+    "specialization_max": "7 especialidades como máximo",
+    "specialization_min": "Mínimo 1 especialidad",
+    "tags": "Puede escribir personalmente una especialidad si no la encontró en la lista",
+    "radius": "Seleccione un radio",
+    "modal": {
+      "title1": "Compra una tarifa",
+      "title2": "para seleccionar este radio",
+
+      "button": "echar un vistazo"
+    }
+  },
+  "order_list": {
+    "title": "Mis pedidos",
+    "footer": "Hacer un pedido",
+    "contract": "Contractual"
+  },
+  "order_detail": {
+    "created_at": "Añadido",
+    "payment": "Pago:",
+    "desc": "Descripción:",
+    "contract": "Contractual",
+    "create_review": "Dejar una reseña",
+    "user": {
+      "created_at": "Registrado con",
+      "year": "año"
+    },
+    "from_you": "de ti"
+  },
+
+  "executor_detail": {
+    "call": "llamar",
+    "go_to_chat": "Mensajes",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "desc": "Sobre mí",
+    "task_completed": "Pedidos ejecutados",
+    "created_at": "Registrado",
+    "was": "era (la)"
+  },
+  "application_form": {
+    "title": "Dejar la solicitud",
+    "fields": {
+      "placeholders": {
+        "comment": "Escribir un comentario",
+        "price": "Por ejemplo, 200"
+      },
+      "labels": {
+        "price": "Tu precio",
+        "comment": "Comentario",
+        "photo_add": "Añadir una foto"
+      }
+    }
+  },
+  "application_list": {
+    "title": "Mis solicitudes"
+  },
+  "roles": {
+    "executor": "soy un artista",
+    "customer": "soy el cliente"
+  },
+  "buttons": {
+    "sign_in": "Iniciar sesión",
+    "sign_up": "Registro",
+    "already_registered": "¿Ya registrado?",
+    "join_to_us": "Unirse a ",
+    "send": "Cliente",
+    "to_sign_up": "Regístrese",
+    "order": "Hacer un pedido",
+    "save": "Guardar",
+    "leave_application": "Dejar la solicitud",
+    "edit": "Editar",
+    "confirm_executor": "elegir",
+    "reply": "Responder",
+    "activated": "Activo",
+    "buy": "Comprar",
+    "remove": "Remover",
+    "yes": "Asi que",
+    "no": "No",
+    "cancel": "Cancelar",
+    "open": "Ir",
+    "promo_code": "J'ai un código de promoción",
+    "get": "Conseguir"
+  },
+  "tabBar": {
+    "search": "Búsqueda",
+    "chat": "Chat",
+    "vip": "Vip",
+    "profile": "Mi perfil",
+    "application": "Solicitudes",
+    "favorite": "Favoritos",
+    "order": "Pida"
+  },
+  "image_picker": {
+    "gallery": "Selecciona una foto de galería",
+    "camera": "Hacer una foto"
+  },
+  "response_list": {
+    "title": "Mis reseñas",
+    "show_all_request": "Mostrar todas las reseñas",
+    "created_at": "Añadido",
+    "km": "kilómetros"
+  },
+  "vip": {
+    "top": {
+      "title": "Parte superior",
+      "desc": "Subida de la lista (Por 3-7-14 días)",
+      "day": "días",
+      "days": "día",
+      "end_time": "válido hasta"
+    },
+    "work_on": "Las ordenes de personas se muestran dentro de un radio de ",
+    "desc": " de su geolocalización",
+    "to": "A",
+    "duration": "El período de validez es de 1 mes."
+  },
+  "vip_statuses": {
+    "radius_10": "Radio 10 km",
+    "radius_20": "Radio 20 km",
+    "radius_30": "Radio 30 km",
+    "radius_100": "Radio 100 km",
+    "radius_unlimited": "El radio es ilimitado.",
+    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+  },
+  "room_list": {
+    "modal": {
+      "title": "¿Está seguro de que desea eliminar el mensaje? "
+    }
+  },
+  "room_detail": {
+    "form": {
+      "plaseholders": {
+        "type_message": "Escribe un mensaje"
+      }
+    },
+    "was_in": "estuvo en línea hace"
+  },
+
+  "user_statuses": {
+    "online": "En línea",
+    "offline": "Desconectado"
+  },
+  "favorite_list": {
+    "sorters": {
+      "by_time": "Por el tiempo",
+      "by_distance": "Por la distancia"
+    },
+    "placeholder": "Nombre Apellido",
+    "empty": "La lista de favoritos está vacía \n Vaya a Buscar para agregar las personas que necesita"
+  },
+  "report_types": {
+    "it": "IT",
+    "consultation": "Consulta",
+    "complaint": "Queja",
+    "add_specialty": "Añadir especialidad",
+    "viber": "Viber",
+    "tg": "Telegram"
+  },
+  "report_create": {
+    "text": "* Su mensaje",
+    "share_file": "Adjuntar un archivo"
+  },
+  "review_create": {
+    "rating": "Evaluación",
+    "text": {
+      "label": "Respuesta",
+      "placeholder": "Por ejemplo, Buen trabajo"
+    },
+    "photo_add": "Añadir una foto"
+  },
+
+  "logged_modal": {
+    "title": "Si aún no está registrado, por favor, regístrese",
+    "button": "Iniciar sesión"
+  },
+  "success_modal": {
+    "title": "¡Has seleccionado con éxito a este artista!",
+    "button": "cerca"
+  },
+  "use_promo_code_modal": {
+    "title": "Código de promoción",
+    "button_apply": "Aplicar",
+    "button_cancel": "Cancelar",
+    "input_placeholder": "Ingresa tu código de promoción"
+  },
+  "referral_program": {
+    "title": "Invita a un amigo y obtén un regalo",
+    "gift": "Izquierda para recibir un regalo",
+    "friends": "amigos de",
+    "acceptable_for_use": {
+      "invited": "Vaya, invitaste ",
+      "friends": "amigos."
+    },
+    "used": "Hurra, regalo recibido!",
+    "copied": "Código copiado"
+  }
+}

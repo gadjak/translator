@@ -1,0 +1,419 @@
+{
+  "app": "my Gin",
+  "app_desc": "Search services in one click!",
+  "titles": {
+    "welcome": "Welcome to",
+    "rating": "Assessment"
+  },
+  "locales": {
+    "ru": "Русский",
+    "uk": "Українська",
+    "pl": "Polska",
+    "es": "Español",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Românesc",
+    "sk": "Slovenská",
+    "hu": "Magyar",
+    "el": "Ελληνικά",
+    "tr": "Türkçe",
+    "lt": "Lietuvių",
+    "et": "Eesti keel",
+    "ka": "ქართული",
+    "sr": "Српски",
+    "hy": "հայերեն"
+  },
+  "distances": {
+    "km": "km"
+  },
+  "currencies": {
+    "uah": "UAH"
+  },
+  "header": {
+    "back": "Return",
+    "send": "Send",
+    "customer": "Customer",
+    "executor": "Executor",
+    "helping": "Support",
+    "close": "Cancel",
+    "reset": "Reset",
+    "search": "Search",
+    "vip": "Vip",
+    "rooms": "Chat",
+    "my_card": "My card",
+    "report_list": "Support",
+    "review": "Your review"
+  },
+  "messages": {
+    "confirm_phone": "Verify phone number",
+    "create_order": "Thanks for your order!",
+    "saved": "Saved!",
+    "create_application": "Application has been submitted!",
+    "create_top": "Thank you for purchasing the top!",
+    "create_vip": "Thank you for your purchase",
+    "radiuses": {
+      "radius_10": "10 km radius!",
+      "radius_20": "20 km radius!",
+      "radius_30": "30 km radius!",
+      "radius_unlimited": "radius unlimited!"
+    },
+    "bad_getaway_error": "The server is temporarily unavailable",
+    "report_created": "Request sent!",
+    "review_created": "Review sent!",
+    "removed": "Order deleted!",
+    "unauthorized": "You are not registered, please register",
+    "unverified": {
+      "title": "You are not verified",
+      "desc": "You have not been verified, please resubmit your details"
+    },
+    "new_request_title": "You have received a new response",
+    "new_request_subtitle": "about your request",
+    "choice_executor_title": "Congratulations! You have been",
+    "choice_executor_subtitle": "chosen as the executor of the order"
+  },
+  "home": {
+    "hello": "Hi, ",
+    "not_authorize": "You are not authorized",
+    "what_we_search": "Master search"
+  },
+  "sign_in": {
+    "subtitle": "Enter your phone",
+
+    "footer": "To use all the features of the application – register",
+    "sign_up_warning": "If you are not registered yet, please register",
+    "referral_code_title": "Enter referral code",
+    "sign_in_facebook": "Continue with Facebook",
+    "sign_in_google": "Continue with Google",
+    "sign_in_apple": "Continue with Apple",
+    "or": "or",
+    "terms-of-use_1": "By creating a My Gin profile, you",
+    "terms-of-use_2": "agree with",
+    "terms-of-use_3": "Terms of Use",
+    "have_referral_code": "I have a referral code"
+  },
+  "errors": {
+    "required": "Required field",
+    "to_short": "Too short",
+    "to_long": "It's too long",
+    "invalid_phone": "Invalid phone number",
+    "invalid_email": "Invalid email",
+    "share_location_failed": "Failed to get your geodata",
+    "verification": {
+      "required": "All photos are required",
+      "back_missing": "Missing second photo",
+      "front_missing": "The first photo is missing",
+      "face_missing": "Face photo missing"
+    },
+    "invalid_avatar": "Choose your photo",
+    "incorrect_address": "The address was not entered correctly"
+  },
+  "sign_up": {
+    "fields": {
+      "full_name": "Full name",
+      "phone": "Mobile phone",
+      "email": "Email",
+      "location": "Geolocation",
+      "address": "Your address",
+      "specialization": "Specialty",
+      "tags": "What is your business?",
+      "about_me": "About me",
+      "change_specialization": "Select the specialty"
+    },
+    "share_location": "Share your location",
+    "tags_desc": "You can write a specialty that is not found in the list",
+    "phone_add": "Add phone",
+    "modal": {
+      "title": "The my Gin app needs to use location services to find people within the specified radius",
+      "button": "Share location"
+    }
+  },
+  "confirm_code": {
+    "type_code": "Enter the code from",
+    "resend": "Send again",
+    "after": "via",
+
+    "footer": "In order to use all the features of the application -",
+    "to_sign_up": "register"
+  },
+  "order_form": {
+    "title": "Order a service",
+    "negotiable_price": "Price negotiable",
+    "tags_note": "You can write tags yourself if you did not find the desired specialty in the list",
+    "share_location": "Share your location",
+    "fields": {
+      "labels": {
+        "title": "Task name",
+        "desc": "What should be done?",
+        "price": "Indicate the price (optional)",
+        "location": "In what radius do you want your order to be seen?",
+        "deadline": "For when?",
+        "speciality": "Who do you need?",
+        "tags": "Add tags",
+        "geo": "Geolocation"
+      },
+      "share_location": "Share your location",
+      "placeholders": {
+        "title": "Add title",
+        "desc": "Add description",
+        "price": "For example, 200",
+        "change_specialization": "Select the specialty",
+        "address": "Your address"
+      }
+    },
+    "remove": "Are you sure you want to delete the order?",
+    "modal": {
+      "title": "The my Gin app needs to use location services to find people within the specified radius",
+      "button": "Share location"
+    },
+    "dead_lines": {
+      "quickly": "urgently",
+      "slowly": "not urgent",
+      "on_week": "within a week"
+    },
+    "photo_add": "Add photo"
+  },
+  "profile_list": {
+    "verification": {
+      "verificated": "Verified",
+      "verificating": "Checked",
+      "not_verificate": "Pass verification"
+    },
+    "verification_status": {
+      "verificated": "Verified",
+      "verificating": "Checked",
+      "not_verificate": "Not verified"
+    },
+    "modal": {
+      "title": " Are you sure you want to delete the profile?",
+      "title_logout": "Are you sure you want to exit?",
+      "title_update": "When changing the name, you need to re-verify"
+    },
+    "my_orders": "My orders",
+    "my_res": "Responses",
+    "my_card": "My card",
+    "change_lang": "Select a language",
+
+    "info": "Information",
+    "reviews": "Reviews",
+    "verificiation_desc": "In our experience, verified users are more credible",
+    "address": "Address:",
+    "phone": "Telephone:",
+    "description": "About me:",
+    "finished_tasks": "Orders fulfilled:",
+    "created_at": "Registered:",
+    "null": "Not filled",
+    "logout": "Log out",
+    "year": "of the year",
+    "remove": "Delete Profile",
+
+    "image_picker": "to identify the user, you need to upload only your real photo",
+    "settings": "Settings",
+    "referral_program": "Referral Program"
+  },
+  "verification": {
+    "title": "Verification",
+    "upload_front": "Upload a photo of the first page of passport or ID card",
+    "upload_back": "Upload a photo of the second page of passport or ID card",
+    "upload_face": "Upload your photo, where your face is clearly visible. It is necessary for personal identification",
+    "add_photo": "+ Add photo"
+  },
+  "filter": {
+    "title": "Filters",
+    "change_specialization": "Select the specialty",
+    "specialization_max": "Max 7 specialties",
+    "specialization_min": "Minimum 1 specialty",
+    "tags": "You can write your own specialty if you did not find it in the list",
+    "radius": "Choose a radius",
+    "modal": {
+      "title1": "Buy",
+      "title2": " tariff to select this radius",
+
+      "button": "Look"
+    }
+  },
+  "order_list": {
+    "title": "My orders",
+    "footer": "Order",
+    "contract": "Contractual"
+  },
+  "order_detail": {
+    "created_at": "Added",
+    "payment": "Payment:",
+    "desc": "Description:",
+    "contract": "Contractual",
+    "create_review": "Leave a review",
+    "user": {
+      "created_at": "Registered in",
+      "year": "year"
+    },
+    "from_you": "away"
+  },
+  "executors_list": {},
+  "executor_detail": {
+    "call": "Call",
+    "go_to_chat": "Message",
+    "address": "Address",
+    "phone": "Telephone",
+    "desc": "About me",
+    "task_completed": "Executed orders",
+    "created_at": "Registered",
+    "was": "was"
+  },
+  "application_form": {
+    "title": "Leave the application",
+    "fields": {
+      "placeholders": {
+        "comment": "Write a comment",
+        "price": "For example, 200"
+      },
+      "labels": {
+        "price": "Your price",
+        "comment": "Comment",
+        "photo_add": "Add photo"
+      }
+    }
+  },
+  "application_list": {
+    "title": "My applications"
+  },
+  "roles": {
+    "executor": "I am executor",
+    "customer": "I am customer"
+  },
+  "buttons": {
+    "sign_in": "Log In",
+    "sign_up": "Register",
+    "already_registered": "Already registered?",
+    "join_to_us": "Join to ",
+    "send": "Send",
+    "to_sign_up": "Register",
+    "order": "Order",
+    "save": "Save",
+    "leave_application": "Leave the application",
+    "edit": "Edit",
+    "confirm_executor": "Select",
+    "reply": "Answer",
+    "activated": "Active",
+    "buy": "Buy",
+    "remove": "Delete",
+    "yes": "Yes",
+    "no": "No",
+    "cancel": "Cancel",
+    "open": "Go",
+    "promo_code": "I have a promo code",
+    "get": "Get"
+  },
+  "tabBar": {
+    "search": "Search",
+    "chat": "Chat",
+    "vip": "Vip",
+    "profile": "My profile",
+    "application": "Request",
+    "favorite": "Featured",
+    "order": "Order"
+  },
+  "image_picker": {
+    "gallery": "Choose photo from gallery",
+    "camera": "Take a photo"
+  },
+  "response_list": {
+    "title": "My responses",
+    "show_all_request": "Show all responses",
+    "created_at": "Added",
+    "km": "km"
+  },
+  "vip": {
+    "top": {
+      "title": "Top",
+      "desc": "Raising up the list (for 3-7-14 days)",
+      "day": "days",
+      "days": "days",
+      "end_time": "valid until"
+    },
+    "work_on": "Orders of people within a radius of up to ",
+    "desc": " from their geo are displayed",
+    "to": "To",
+    "duration": "Valid period is 1 month"
+  },
+  "vip_statuses": {
+    "radius_10": "Radius 10 km",
+    "radius_20": "Radius 20 km",
+    "radius_30": "Radius 30 km",
+    "radius_100": "Radius 100 km",
+    "radius_unlimited": "Radius unlimited",
+    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+  },
+  "room_list": {
+    "modal": {
+      "title": "Are you sure you want to delete the chat? "
+    }
+  },
+  "room_detail": {
+    "form": {
+      "plaseholders": {
+        "type_message": "Write messages"
+      }
+    },
+    "was_in": "was online"
+  },
+
+  "user_statuses": {
+    "online": "Online",
+    "offline": "Offline"
+  },
+  "favorite_list": {
+    "sorters": {
+      "by_time": "By time",
+      "by_distance": "By distance"
+    },
+    "placeholder": "Given name Surname",
+    "empty": "Favorite list is empty \n Go to Search to add the people you need"
+  },
+  "report_types": {
+    "it": "IT",
+    "consultation": "Consultation",
+    "complaint": "Complaint",
+    "add_specialty": "Add specialty",
+    "viber": "Viber",
+    "tg": "Telegram"
+  },
+  "report_create": {
+    "text": "* Your request",
+    "share_file": "Attach file"
+  },
+  "review_create": {
+    "rating": "Assessment",
+    "text": {
+      "label": "Review",
+      "placeholder": "For example, Excellent did the job"
+    },
+    "photo_add": "Add photo"
+  },
+  "logged_modal": {
+    "title": "To have more features you need to register!",
+    "button": "Login"
+  },
+  "success_modal": {
+    "title": "You have successfully selected this artist!",
+    "button": "Close"
+  },
+  "use_promo_code_modal": {
+    "title": "Promo code",
+    "button_apply": "Apply",
+    "button_cancel": "Cancel",
+    "input_placeholder": "Enter your promo code"
+  },
+  "referral_program": {
+    "title": "Invite a friend and get a gift",
+    "gift": "Left to receive a gift",
+    "friends": "friends from",
+    "acceptable_for_use": {
+      "invited": "Wow, you invited ",
+      "friends": "friends."
+    },
+    "used": "Hooray, gift received!",
+    "copied": "Code copied"
+  }
+}

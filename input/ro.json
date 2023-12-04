@@ -1,0 +1,413 @@
+{
+  "app": "my Gin",
+  "app_desc": "Caută servicii cu un singur clic!",
+  "titles": {
+    "welcome": "Bun venit la",
+    "rating": "Nota"
+  },
+  "locales": {
+    "ru": "Русский",
+    "uk": "Українська",
+    "pl": "Polska",
+    "es": "Español",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Românesc",
+    "sk": "Slovenská",
+    "hu": "Magyar",
+    "el": "Ελληνικά",
+    "tr": "Türkçe",
+    "lt": "Lietuvių",
+    "et": "Eesti keel",
+    "ka": "ქართული",
+    "sr": "Српски",
+    "hy": "հայերեն"
+  },
+  "distances": {
+    "km": "km"
+  },
+  "currencies": {
+    "uah": "UAH"
+  },
+  "header": {
+    "back": "înapoi",
+    "send": "Trimite",
+    "customer": "Client",
+    "executor": "Executor",
+    "helping": "Susținere",
+    "close": "Anulare",
+    "reset": "Resetați",
+    "search": "Căutare",
+    "vip": "Vip",
+    "rooms": "Conversație",
+    "my_card": "Cartea mea de vizită",
+    "report_list": "Susținere",
+    "review": "Recenzia dumneavoastră"
+  },
+  "messages": {
+    "confirm_phone": "Verificați numărul de telefon",
+    "create_order": "Vă mulțumim pentru comandă!",
+    "saved": "Salvat!",
+    "create_application": "Aplicația a fost depusă!",
+    "create_top": "Vă mulțumim că ați achiziționat topul!",
+    "create_vip": "Multumesc pentru cumparaturile facute",
+    "radiuses": {
+      "radius_10": "10 km raza!",
+      "radius_20": "20 km raza!",
+      "radius_30": "30 km raza!",
+      "radius_unlimited": "raza nelimitata!"
+    },
+    "bad_getaway_error": "Serverul este temporar indisponibil",
+    "report_created": "Cerere trimisă!",
+    "review_created": "Recenzie trimisă!",
+    "removed": "Comanda a fost stersa!",
+    "unauthorized": "Nu sunteți înregistrat, vă rugăm să vă înregistrați",
+    "unverified": {
+      "title": "Nu sunteți verificat",
+      "desc": "Nu ați fost verificat, vă rugăm să trimiteți din nou detaliile dvs"
+    },
+    "new_request_title": "Ați primit un nou feedback cu",
+    "new_request_subtitle": "privire la comanda dvs",
+    "choice_executor_title": "Felicitări! Ai fost ales ca",
+    "choice_executor_subtitle": "executor al ordinului"
+  },
+  "home": {
+    "hello": "Salut, ",
+    "not_authorize": "Nu sunteți autorizate",
+    "what_we_search": "Căutare principală"
+  },
+  "sign_in": {
+    "subtitle": "Introduceți telefonul dvs",
+    "footer": "Pentru a utiliza toate caracteristicile aplicației – înregistrați-vă",
+    "sign_up_warning": "Dacă nu sunteți încă înregistrat, vă rugăm să vă înregistrați",
+    "referral_code_title": "Introduceți codul de recomandare",
+    "sign_in_facebook": "Continuați cu Facebook",
+    "sign_in_google": "Continuați cu Google",
+    "sign_in_apple": "Continuați cu Apple",
+    "or": "sau",
+    "terms-of-use_1": "Prin crearea unui profil My Gin, dvs.",
+    "terms-of-use_2": "de acord cu",
+    "terms-of-use_3": "Termeni de utilizare",
+    "have_referral_code": "Am un cod de recomandare"
+  },
+  "errors": {
+    "required": "câmp necesar",
+    "to_short": "Prea scurt",
+    "to_long": "Este prea lung",
+    "invalid_phone": "Numar de telefon invalid",
+    "invalid_email": "E-mail invalid",
+    "share_location_failed": "Nu s-au putut obține datele dvs. geografice",
+    "verification": {
+      "required": "Toate fotografiile sunt obligatorii",
+      "back_missing": "Lipsește a doua fotografie",
+      "front_missing": "Prima fotografie lipsește",
+      "face_missing": "Fotografia feței lipsește"
+    },
+    "invalid_avatar": "Alege-ți fotografia",
+    "incorrect_address": "Adresa nu a fost introdusă corect"
+  },
+  "sign_up": {
+    "fields": {
+      "full_name": "Numele complet",
+      "phone": "Telefon mobil",
+      "email": "E-mail",
+      "location": "Geolocalizare",
+      "address": "Adresa dvs",
+      "specialization": "Specialitate",
+      "tags": "Ce faci?",
+      "about_me": "Despre mine",
+      "change_specialization": "Alegeți specialitate"
+    },
+    "share_location": "Partajați locația dvs",
+    "tags_desc": "Puteți scrie o specialitate care nu se regăsește în listă",
+    "phone_add": "Adăugați telefon",
+    "modal": {
+      "title": "Aplicația my Gin trebuie să folosească serviciile de localizare pentru a găsi persoane în raza specificată",
+      "button": "Distribuie locatia"
+    }
+  },
+  "confirm_code": {
+    "type_code": "Introdu codul de la",
+    "resend": "Trimite din nou",
+    "after": "prin",
+    "footer": "Pentru a utiliza toate caracteristicile aplicației -",
+    "to_sign_up": "Inregistreaza-te"
+  },
+  "order_form": {
+    "title": "Comanda serviciu",
+    "negotiable_price": "Negociabil",
+    "tags_note": "Puteți scrie singur etichete dacă nu ați găsit specialitatea dorită în listă",
+    "share_location": "Partajați locația dvs",
+    "fields": {
+      "labels": {
+        "title": "Numele sarcinii",
+        "desc": "Ce ar trebui făcut?",
+        "price": "Introduceți un preț (opțional)",
+        "location": "În ce rază vrei să fie văzută comanda ta?",
+        "deadline": "Pentru când?",
+        "speciality": "De cine ai nevoie?",
+        "tags": "Adaugați tag-ule",
+        "geo": "Geolocalizare"
+      },
+      "share_location": "Partajați locația dvs",
+      "placeholders": {
+        "title": "Adauga titlu",
+        "desc": "Adauga descriere",
+        "price": "De exemplu, 200",
+        "change_specialization": "Alegeți specialitate",
+        "address": "Adresa dvs"
+      }
+    },
+    "remove": "Sigur doriți să ștergeți comanda?",
+    "modal": {
+      "title": "Aplicația my Gin trebuie să folosească serviciile de localizare pentru a găsi persoane în raza specificată",
+      "button": "Distribuie locatia"
+    },
+    "dead_lines": {
+      "quickly": "urgent",
+      "slowly": "nu este urgent",
+      "on_week": "în timpul săptămânii"
+    },
+    "photo_add": "Adaugă o fotografie"
+  },
+  "profile_list": {
+    "verification": {
+      "verificated": "Verificat",
+      "verificating": "Verificat",
+      "not_verificate": "Treci verificarea"
+    },
+    "verification_status": {
+      "verificated": "Verificat",
+      "verificating": "Verificat",
+      "not_verificate": "nu e verificat"
+    },
+    "modal": {
+      "title": " Sigur doriți să ștergeți profilul?",
+      "title_logout": "Ești sigur că vrei să ieși?",
+      "title_update": "Când schimbați numele, trebuie să verificați din nou"
+    },
+    "my_orders": "Comenzile mele",
+    "my_res": "Răspunsuri",
+    "my_card": "Cartea mea de vizită",
+    "change_lang": "Selecteaza limba",
+    "info": "Informații",
+    "reviews": "Recenzii",
+    "verificiation_desc": "Pe baza experienței noastre, utilizatorii verificați provoacă mai multă încredere",
+    "address": "Adresa:",
+    "phone": "Telefon:",
+    "description": "Despre mine:",
+    "finished_tasks": "Comenzile completate:",
+    "created_at": "Inregistrat:",
+    "null": "Nu este umplut",
+    "logout": "Ieşi din cont",
+    "year": "al anului",
+    "remove": "Ștergeți profilul",
+    "image_picker": "pentru a identifica utilizatorul, trebuie să încărcați doar fotografia dvs. reală",
+    "settings": "Setări",
+    "referral_program": "Program de recomandare"
+  },
+  "verification": {
+    "title": "Verificare",
+    "upload_front": "Încărcă o fotografie a primei paginii a pașaportului sau a cărții de identitate",
+    "upload_back": "Încărcă o fotografie a doua paginii a pașaportului sau a cărții de identitate",
+    "upload_face": "Încarcăți o fotografie sa în care fața ta este clar vizibilă. Acest lucru este necesar pentru identificarea personală. ",
+    "add_photo": "Adaugă o fotografie"
+  },
+  "filter": {
+    "title": "Filtre",
+    "change_specialization": "Alegeți specialitate",
+    "specialization_max": "Max 7 specialități",
+    "specialization_min": "Minimum 1 specialitate",
+    "tags": "Vă puteți scrie propria specialitate dacă nu ați găsit-o în listă",
+    "radius": "Alegeți o rază",
+    "modal": {
+      "title1": "Cumpărați tariful",
+      "title2": "pentru a selecta această rază",
+      "button": "Uite"
+    }
+  },
+  "order_list": {
+    "title": "Comenzile mele",
+    "footer": "A comanda",
+    "contract": "Contractual"
+  },
+  "order_detail": {
+    "created_at": "Adăugat acum",
+    "payment": "Plată:",
+    "desc": "Descriere:",
+    "contract": "Contractual",
+    "create_review": "Oferă feedback",
+    "user": {
+      "created_at": "Înregistrat de la",
+      "year": "an"
+    },
+    "from_you": "de dvs"
+  },
+  "executors_list": {},
+  "executor_detail": {
+    "call": "Apel",
+    "go_to_chat": "Mesaje",
+    "address": "Adresa",
+    "phone": "Telefon",
+    "desc": "Despre mine",
+    "task_completed": "Comenzi finalizate",
+    "created_at": "Înregistrat",
+    "was": "a fost"
+  },
+  "application_form": {
+    "title": "Trimiteți cererea dvs",
+    "fields": {
+      "placeholders": {
+        "comment": "Scrieți comentariu",
+        "price": "De exemplu, 200"
+      },
+      "labels": {
+        "price": "Prețul tău",
+        "comment": "Cometarii",
+        "photo_add": "Adaugă o fotografie"
+      }
+    }
+  },
+  "application_list": {
+    "title": "Cereriile mele"
+  },
+  "roles": {
+    "executor": "Executor",
+    "customer": "Client"
+  },
+  "buttons": {
+    "sign_in": "A intra",
+    "sign_up": "Inregistreaza-te",
+    "already_registered": "Ați deja un cont?",
+    "join_to_us": "A te alatura ",
+    "send": "Trimite",
+    "to_sign_up": "Inregistreaza-te",
+    "order": "A comanda",
+    "save": "Salva",
+    "leave_application": "Trimiteți cererea dvs",
+    "edit": "Editați",
+    "confirm_executor": "Alege",
+    "reply": "Răspunde",
+    "activated": "Activ",
+    "buy": "Cumpără",
+    "remove": "Șterge",
+    "yes": "Da",
+    "no": "Nu",
+    "cancel": "Anulare",
+    "open": "Merge",
+    "promo_code": "Am un cod promoțional",
+    "get": "Obține"
+  },
+  "tabBar": {
+    "search": "Căutare",
+    "chat": "Chat",
+    "vip": "Vip",
+    "profile": "Profilul meu",
+    "application": "Cererii",
+    "favorite": "Favorite",
+    "order": "A comanda"
+  },
+  "image_picker": {
+    "gallery": "Selectați poza din galerie",
+    "camera": "Faceți poză"
+  },
+  "response_list": {
+    "title": "Răspunsurile mele",
+    "show_all_request": "Afișați toate răspunsurile",
+    "created_at": "Adăugat acum",
+    "km": "km"
+  },
+  "vip": {
+    "top": {
+      "title": "Top",
+      "desc": "Ridicarea listei (timp de 3-7-14 zile)",
+      "day": "ziua",
+      "days": "zile",
+      "end_time": "valabil până la"
+    },
+    "work_on": "Sunt afișate comenzile de persoane pe o rază de până la ",
+    "desc": " de la adresa geografică",
+    "to": "La",
+    "duration": "Perioada de valabilitate este de 1 lună"
+  },
+  "vip_statuses": {
+    "radius_10": "Radius 10 km",
+    "radius_20": "Radius 20 km",
+    "radius_30": "Radius 30 km",
+    "radius_100": "Radius 100 km",
+    "radius_unlimited": "Radius nelimitată",
+    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+  },
+  "room_list": {
+    "modal": {
+      "title": "Sigur doriți să ștergeți conversație? "
+    }
+  },
+  "room_detail": {
+    "form": {
+      "plaseholders": {
+        "type_message": "Scrieți mesaje"
+      }
+    },
+    "was_in": "a fost online acum"
+  },
+  "user_statuses": {
+    "online": "Online",
+    "offline": "Deconectat"
+  },
+  "favorite_list": {
+    "sorters": {
+      "by_time": "Cu timpul",
+      "by_distance": "După distanță"
+    },
+    "placeholder": "Prenume Nume",
+    "empty": "Lista de favorite este goală\n Accesați în Căutare pentru a adăuga persoanele de care aveți nevoie"
+  },
+  "report_types": {
+    "it": "IT",
+    "consultation": "Consultare",
+    "complaint": "Plângere",
+    "add_specialty": "Adaugă specialitate",
+    "viber": "Viber",
+    "tg": "Telegram"
+  },
+  "report_create": {
+    "text": "* Apelul dvs",
+    "share_file": "Atasează fisier"
+  },
+  "review_create": {
+    "rating": "Nota",
+    "text": {
+      "label": "Revizuire",
+      "placeholder": "De exemplu, Excelent a făcut treaba"
+    },
+    "photo_add": "Adaugă o fotografie"
+  },
+  "logged_modal": {
+    "title": "Pentru a avea mai multe funcții trebuie să vă înregistrați!",
+    "button": "A intra"
+  },
+  "success_modal": {
+    "title": "Ați selectat cu succes acest artist!",
+    "button": "Închide"
+  },
+  "use_promo_code_modal": {
+    "title": "Cod promoțional",
+    "button_apply": "Aplicați",
+    "button_cancel": "Anulați",
+    "input_placeholder": "Introduceți codul dvs. promoțional"
+  },
+  "referral_program": {
+    "title": "Invitați un prieten și primiți un cadou",
+    "gift": "A plecat să primească un cadou",
+    "friends": "prieteni din",
+    "acceptable_for_use": {
+      "invited": "Wow, ai invitat ",
+      "friends": "prieteni."
+    },
+    "used": "Ura, cadou primit!",
+    "copied": "Cod copiat"
+  }
+}

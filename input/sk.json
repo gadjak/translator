@@ -1,0 +1,413 @@
+{
+  "app": "my Gin",
+  "app_desc": "Vyhľadávajte služby jedným kliknutím!",
+  "titles": {
+    "welcome": "Vitajte v",
+    "rating": "Hodnotenie"
+  },
+  "locales": {
+    "ru": "Русский",
+    "uk": "Українська",
+    "pl": "Polska",
+    "es": "Español",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Românesc",
+    "sk": "Slovenská",
+    "hu": "Magyar",
+    "el": "Ελληνικά",
+    "tr": "Türkçe",
+    "lt": "Lietuvių",
+    "et": "Eesti keel",
+    "ka": "ქართული",
+    "sr": "Српски",
+    "hy": "հայերեն"
+  },
+  "distances": {
+    "km": "km"
+  },
+  "currencies": {
+    "uah": "UAH"
+  },
+  "header": {
+    "back": "Späť",
+    "send": "Odoslať",
+    "customer": "Objednávateľ",
+    "executor": "Poskytovateľ",
+    "helping": "Podpora",
+    "close": "Zrušiť",
+    "reset": "Resetovať",
+    "search": "Hľadať",
+    "vip": "VIP",
+    "rooms": "Chat",
+    "my_card": "Moja vizitka",
+    "report_list": "Podpora",
+    "review": "Tvoja Recenzia"
+  },
+  "messages": {
+    "confirm_phone": "Overte telefónne číslo",
+    "create_order": "Ďakujeme za objednávku!",
+    "saved": "Uložených!",
+    "create_application": "Žiadosť bola odoslaná!",
+    "create_top": "Ďakujeme, že ste si zakúpili top!",
+    "create_vip": "Ďakujem za Váš nákup",
+    "radiuses": {
+      "radius_10": "10 km okruh!",
+      "radius_20": "20 km okruh!",
+      "radius_30": "30 km okruh!",
+      "radius_unlimited": "rádius neobmedzený!"
+    },
+    "bad_getaway_error": "Server je dočasne nedostupný",
+    "report_created": "Žiadosť odoslaná!",
+    "review_created": "Recenzia bola odoslaná!",
+    "removed": "Objednávka vymazaná!",
+    "unauthorized": "Nie ste zaregistrovaný, zaregistrujte sa",
+    "unverified": {
+      "title": "Nie ste overený",
+      "desc": "Neboli ste overení, znova odošlite svoje údaje"
+    },
+    "new_request_title": "Dostali ste novú spätnú väzbu",
+    "new_request_subtitle": "na vašu objednávku",
+    "choice_executor_title": "Gratulujem! Boli ste vybraní",
+    "choice_executor_subtitle": "za vykonávateľa príkazu"
+  },
+  "home": {
+    "hello": "Ahoj, ",
+    "not_authorize": "Nie ste autorizovaný",
+    "what_we_search": "Majstrovské vyhľadávanie"
+  },
+  "sign_in": {
+    "subtitle": "Zadajte svoje telefónne číslo",
+    "footer": "Aby ste mohli využívať všetky funkcie aplikácie, zaregistrujte sa",
+    "sign_up_warning": "Ak ešte nie ste zaregistrovaný, zaregistrujte sa",
+    "referral_code_title": "Vnesite referenčno kodo",
+    "sign_in_facebook": "Nadaljuj prek Facebook",
+    "sign_in_google": "Nadaljuj z Google",
+    "sign_in_apple": "Nadaljujte prek Apple",
+    "or": "ali",
+    "terms-of-use_1": "Z ustvarjanjem profila My Gin",
+    "terms-of-use_2": "strinjam se z",
+    "terms-of-use_3": "Pogoji uporabe",
+    "have_referral_code": "Imam referenčno kodo"
+  },
+  "errors": {
+    "required": "Požadované pole",
+    "to_short": "Príliš krátky",
+    "to_long": "Je to príliš dlhé",
+    "invalid_phone": "Neplatné telefónne číslo",
+    "invalid_email": "Neplatný email",
+    "share_location_failed": "Nepodarilo sa získať vaše geografické údaje",
+    "verification": {
+      "required": "Všetky fotografie sú povinné",
+      "back_missing": "Chýba druhá fotka",
+      "front_missing": "Prvá fotka chýba",
+      "face_missing": "Chýba fotografia tváre"
+    },
+    "invalid_avatar": "Vyberte si fotografiu",
+    "incorrect_address": "Adresa nebola zadaná správne"
+  },
+  "sign_up": {
+    "fields": {
+      "full_name": "Celé meno",
+      "phone": "Mobilný telefón",
+      "email": "Email",
+      "location": "Geolokácia",
+      "address": "Vaša adresa",
+      "specialization": "Obor",
+      "tags": "Čo robíte?",
+      "about_me": "O mne",
+      "change_specialization": "Vyberte si obor"
+    },
+    "share_location": "Zdieľať svoju polohu",
+    "tags_desc": "Môžete napísať obor, ktorý ste v zozname nenašli",
+    "phone_add": "Pridať telefón",
+    "modal": {
+      "title": "Aplikácia my Gin musí používať geolokačné služby na vyhľadávanie ľudí v určenom okruhu",
+      "button": "Zdieľať polohu"
+    }
+  },
+  "confirm_code": {
+    "type_code": "Zadajte kód z",
+    "resend": "Odoslať znova",
+    "after": "cez",
+    "footer": "Aby ste mohli využívať všetky funkcie aplikácie -",
+    "to_sign_up": "Zaregistrovať"
+  },
+  "order_form": {
+    "title": "Objednať službu",
+    "negotiable_price": "Cena dohodou",
+    "tags_note": "Štítky si môžete napísať sami, ak ste v zozname nenašli požadovanú špecialitu",
+    "share_location": "Zdieľať svoju polohu",
+    "fields": {
+      "labels": {
+        "title": "Názov úlohy",
+        "desc": "Čo je potrebné urobiť?",
+        "price": "Zadajte cenu (voliteľné)",
+        "location": "V akom okruhu chcete, aby bola vaša objednávka videná?",
+        "deadline": "Na kedy?",
+        "speciality": "Koho potrebuješ?",
+        "tags": "Pridať tagy",
+        "geo": "Geolokácia"
+      },
+      "share_location": "Zdieľať svoju polohu",
+      "placeholders": {
+        "title": "Pridať názov",
+        "desc": "Pridajte popis",
+        "price": "Napríklad 200",
+        "change_specialization": "Vyberte si obor",
+        "address": "Vaša adresa"
+      }
+    },
+    "remove": "Naozaj chcete odstrániť objednávku?",
+    "modal": {
+      "title": "Aplikácia my Gin musí používať služby určovania polohy, aby našla ľudí v určenom okruhu",
+      "button": "Zdieľať polohu"
+    },
+    "dead_lines": {
+      "quickly": "súrne",
+      "slowly": "nie súrne",
+      "on_week": "do tyzdna"
+    },
+    "photo_add": "Pridať fotografiu"
+  },
+  "profile_list": {
+    "verification": {
+      "verificated": "Verifikované",
+      "verificating": "Skontrolované",
+      "not_verificate": "Prejsť verifikáciu"
+    },
+    "verification_status": {
+      "verificated": "Verifikované",
+      "verificating": "Skontrolované",
+      "not_verificate": "Neoverené"
+    },
+    "modal": {
+      "title": " Naozaj chcete odstrániť profil?",
+      "title_logout": "Si si isty ze chces odist?",
+      "title_update": "Pri zmene názvu je potrebné znova overiť"
+    },
+    "my_orders": "Moje žiadosti",
+    "my_res": "Reakcie",
+    "my_card": "Moja vizitka",
+    "change_lang": "Zvoliť jazyk",
+    "info": "Informácie",
+    "reviews": "Recenzie",
+    "verificiation_desc": "Podľa našich skúseností sú overení užívatelia dôveryhodnejší",
+    "address": "Adresa:",
+    "phone": "Telefón:",
+    "description": "O mne:",
+    "finished_tasks": "Dokončené objednávky:",
+    "created_at": "Registrovaný:",
+    "null": "Nevyplnené",
+    "logout": "Odhlásiť sa",
+    "year": "roku",
+    "remove": "Odstrániť profil",
+    "image_picker": "na identifikáciu používateľa musíte nahrať iba svoju skutočnú fotografiu",
+    "settings": "Nastavitve",
+    "referral_program": "Napotitveni program"
+  },
+  "verification": {
+    "title": "Verifikácia",
+    "upload_front": "Nahrajte fotografiu prvej strany občianskeho preukazu alebo ID karty",
+    "upload_back": "Nahrajte fotografiu druhej strany občianskeho preukazu alebo ID karty",
+    "upload_face": "Nahrajte svoju fotografiu, ktorá jasne ukazuje Vašu tvár. Je to potrebné na identifikáciu totožnosti. ",
+    "add_photo": "Pridať fotografiu"
+  },
+  "filter": {
+    "title": "Filter",
+    "change_specialization": "Vyberte si obor",
+    "specialization_max": "Največ 7 specialitet",
+    "specialization_min": "Najmanj 1 specializacija",
+    "tags": "Môžete napísať vlastný obor, ak ste ho nenašli v zozname",
+    "radius": "Vyberte polomer",
+    "modal": {
+      "title1": "Kúpte si tarifu",
+      "title2": "aby ste si vybrali tento rádius hľadania objednávky",
+      "button": "Sledovať"
+    }
+  },
+  "order_list": {
+    "title": "Moje žiadosti",
+    "footer": "Objednať",
+    "contract": "Zmluvný"
+  },
+  "order_detail": {
+    "created_at": "Pridané",
+    "payment": "Platba:",
+    "desc": "Popis:",
+    "contract": "Zmluvný",
+    "create_review": "Napíšte recenziu",
+    "user": {
+      "created_at": "Registrovaný od",
+      "year": "rok"
+    },
+    "from_you": "od vás"
+  },
+  "executors_list": {},
+  "executor_detail": {
+    "call": "Zavolať",
+    "go_to_chat": "Správa",
+    "address": "Adresa",
+    "phone": "Telefón",
+    "desc": "O mne",
+    "task_completed": "Dokončené objednávky",
+    "created_at": "Registrovaný",
+    "was": "bol(a)"
+  },
+  "application_form": {
+    "title": "Zanechať žiadosť",
+    "fields": {
+      "placeholders": {
+        "comment": "Napísať komentár",
+        "price": "Napríklad 200"
+      },
+      "labels": {
+        "price": "Vaša cena",
+        "comment": "Komentár",
+        "photo_add": "Pridať fotografiu"
+      }
+    }
+  },
+  "application_list": {
+    "title": "Moje aplikácie"
+  },
+  "roles": {
+    "executor": "Som poskytovateľ",
+    "customer": "Som bjednávateľ"
+  },
+  "buttons": {
+    "sign_in": "Prihlásiť sa",
+    "sign_up": "Zaregistrovať",
+    "already_registered": "Už jste zaregistrováni?",
+    "join_to_us": "Pripojte sa k ",
+    "send": "Odoslať",
+    "to_sign_up": "Zaregistrovať",
+    "order": "Objednať",
+    "save": "Uložiť",
+    "leave_application": "Zanechať žiadosť",
+    "edit": "Upraviť",
+    "confirm_executor": "Vybrať",
+    "reply": "Odpoveď",
+    "activated": "Aktívne",
+    "buy": "Kúpiť",
+    "remove": "Odstrániť",
+    "yes": "Áno",
+    "no": "Nie",
+    "cancel": "Zrušiť",
+    "open": "Choď",
+    "promo_code": "Vnesite svojo promocijsko kodo",
+    "get": "Získajte"
+  },
+  "tabBar": {
+    "search": "Hľadať",
+    "chat": "Chat",
+    "vip": "VIP",
+    "profile": "Môj profil",
+    "application": "Žiadosti",
+    "favorite": "Obľúbené",
+    "order": "Objednať"
+  },
+  "image_picker": {
+    "gallery": "Vyberte fotografiu z galérie",
+    "camera": "Urobiť fotku"
+  },
+  "response_list": {
+    "title": "Moje odpovede",
+    "show_all_request": "Zobraziť všetky odpovede",
+    "created_at": "Pridané",
+    "km": "km"
+  },
+  "vip": {
+    "top": {
+      "title": "Top",
+      "desc": "Posunúť nahor v zozname (po dobu 3-7-14 dní)",
+      "day": "dni",
+      "days": "dni",
+      "end_time": "platné do"
+    },
+    "work_on": "Zobrazujú sa objednávky ľudí v okruhu do ",
+    "desc": " od vašej polohy",
+    "to": "Komu",
+    "duration": "Platnosť 1 mesiac"
+  },
+  "vip_statuses": {
+    "radius_10": "Rádius 10 km",
+    "radius_20": "Rádius 20 km",
+    "radius_30": "Rádius 30 km",
+    "radius_100": "Rádius 100 km",
+    "radius_unlimited": "Neobmedzený okruh",
+    "radius_unlimited_12": "Neobmedzený okruh na 12 mesiacov"
+  },
+  "room_list": {
+    "modal": {
+      "title": "Naozaj chcete odstrániť chat? "
+    }
+  },
+  "room_detail": {
+    "form": {
+      "plaseholders": {
+        "type_message": "Napísať správu"
+      }
+    },
+    "was_in": "bol online"
+  },
+  "user_statuses": {
+    "online": "Online",
+    "offline": "Offline"
+  },
+  "favorite_list": {
+    "sorters": {
+      "by_time": "Podľa času",
+      "by_distance": "Podľa vzdialenosti"
+    },
+    "placeholder": "Meno Priezvisko",
+    "empty": "Zoznam obľúbených je prázdny\n Vyhľadajte a pridajte ľudí, ktorých potrebujete"
+  },
+  "report_types": {
+    "it": "IT",
+    "consultation": "Konzultácia",
+    "complaint": "Sťažnosť",
+    "add_specialty": "Pridať odbor",
+    "viber": "Viber",
+    "tg": "Telegram"
+  },
+  "report_create": {
+    "text": "* Vaša správa",
+    "share_file": "Priložiť súbor"
+  },
+  "review_create": {
+    "rating": "Hodnotenie",
+    "text": {
+      "label": "Preskúmanie",
+      "placeholder": "Napríklad Excellent túto úlohu zvládol"
+    },
+    "photo_add": "Pridať fotografiu"
+  },
+  "logged_modal": {
+    "title": "Ak chcete mať viac funkcií, musíte sa zaregistrovať!",
+    "button": "Prihlásiť sa"
+  },
+  "success_modal": {
+    "title": "Úspešne ste vybrali tohto interpreta!",
+    "button": "Zavrieť"
+  },
+  "use_promo_code_modal": {
+    "title": "Promocijska koda",
+    "button_apply": "Prijavite se",
+    "button_cancel": "Prekliči",
+    "input_placeholder": "Vnesite svojo promocijsko kodo"
+  },
+  "referral_program": {
+    "title": "Povabi prijatelja in prejmi darilo",
+    "gift": "Prejeti preostalo darilo",
+    "friends": "prijatelji iz",
+    "acceptable_for_use": {
+      "invited": "Hura, povabljen si",
+      "friends": "prijatelji."
+    },
+    "used": "Hura, darilo prejeto!",
+    "copied": "Kód bol skopírovaný"
+  }
+}
