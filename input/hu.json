@@ -1,7 +1,6 @@
 {
   "app": "my Gin-ben",
   "app_desc": "Keressen szolgáltatásokat egyetlen kattintással!",
-
   "titles": {
     "welcome": "Üdvözöljük a",
     "rating": "Értékelés"
@@ -82,7 +81,6 @@
   },
   "sign_in": {
     "subtitle": "Írja be a telefonszámát",
-
     "footer": "Regisztráljon az alkalmazás összes funkciójának használatához",
     "sign_up_warning": "Ha még nem regisztrált, kérem regisztráljon",
     "referral_code_title": "Adja meg az ajánlókódot",
@@ -329,18 +327,19 @@
       "days": "nap",
       "end_time": "ig érvényes"
     },
-    "work_on": "Megjelennek a földrajzi helyüktől legfeljebb ",
+    "work_on": "Mi ad előfizetést ✅\nA megrendelést nem csírált sugárban fogja látni, ez növeli a már elvégzendő megrendelések számát.\n*A maximális teljesítmény elérése érdekében minimális kifizetést végeztünk.",
     "desc": "-es körzetben lévő személyek rendelései",
     "to": "Nak nek",
-    "duration": "Érvényességi idő 1 hónap"
+    "duration": "Érvényességi idő 1 hónap",
+    "duration_12": "Lejárt 12 hónap"
   },
   "vip_statuses": {
     "radius_10": "Sugár 10 km",
     "radius_20": "Sugár 20 km",
     "radius_30": "Sugár 30 km",
     "radius_100": "Sugár 100 km",
-    "radius_unlimited": "Korlátlan sugarú",
-    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+    "radius_unlimited": "Előfizetés 1 hónap",
+    "radius_unlimited_12": "Előfizetés 12 hónap"
   },
   "room_list": {
     "modal": {
@@ -387,7 +386,6 @@
     },
     "photo_add": "Fénykép hozzáadása"
   },
-
   "logged_modal": {
     "title": "További funkciók eléréséhez regisztrálnia kell!",
     "button": "Belépés"

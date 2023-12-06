@@ -327,18 +327,19 @@
       "days": "jours",
       "end_time": "valable jusque"
     },
-    "work_on": "Les commandes des personnes dans un rayon allant jusqu'à ",
+    "work_on": "Ce qui vous donne l'abonnement ✅\nVous verrez l'ordre dans un rayon non disposé, cela augmentera le nombre de commandes que vous devez déjà effectuer.\n* Nous avons effectué un paiement minimum pour effectuer des performances maximales.",
     "desc": " de leur géo sont affichées",
     "to": "Pour",
-    "duration": "Durée de validité de 1 mois"
+    "duration": "Durée de validité de 1 mois",
+    "duration_12": "Expiré 12 mois"
   },
   "vip_statuses": {
     "radius_10": "Rayon 10 km",
     "radius_20": "Rayon 20 km",
     "radius_30": "Rayon 30 km",
     "radius_100": "Rayon 100 km",
-    "radius_unlimited": "Rayon illimité",
-    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+    "radius_unlimited": "Abonnement 1 mois",
+    "radius_unlimited_12": "Abonnement 12 mois"
   },
   "room_list": {
     "modal": {

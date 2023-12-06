@@ -327,18 +327,19 @@
       "days": "Tage",
       "end_time": "gültig bis"
     },
-    "work_on": "Bestellungen von Personen in einem Umkreis von bis zu ",
+    "work_on": "Was gibt Ihnen Abonnement ✅\nSie werden die Bestellung in einem nicht gestalteten Radius sehen. Dies erhöht die Anzahl der Bestellungen, die Sie bereits ausführen müssen.\n*Wir haben eine Mindestzahlung geleistet, um maximale Leistung zu erzielen.",
     "desc": " von Ihrem Geo werden angezeigt",
     "to": "Zu",
-    "duration": "Gültigkeitsdauer 1 Monat"
+    "duration": "Gültigkeitsdauer 1 Monat",
+    "duration_12": "12 Monate abgelaufen"
   },
   "vip_statuses": {
     "radius_10": "Radius 10 km",
     "radius_20": "Radius 20 km",
     "radius_30": "Radius 30 km",
     "radius_100": "Radius 100 km",
-    "radius_unlimited": "Keine Begrenzung des Radius",
-    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+    "radius_unlimited": "Abonnement 1 Monat",
+    "radius_unlimited_12": "Abonnement 12 Monate"
   },
   "room_list": {
     "modal": {

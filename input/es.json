@@ -1,7 +1,6 @@
 {
   "app": "my Gin",
   "app_desc": "¡Busca servicios en un clic!",
-
   "titles": {
     "welcome": "Bienvenido a",
     "rating": "Evaluación"
@@ -81,7 +80,6 @@
   },
   "sign_in": {
     "subtitle": "Introduzca su teléfono",
-
     "footer": "Para utilizar todas las funciones de la aplicación — regístrese",
     "sign_up_warning": "Si aún no está registrado, por favor, regístrese",
     "referral_code_title": "Ingrese el código de referencia",
@@ -134,7 +132,6 @@
     "type_code": "Introduce el código de",
     "resend": "Cliente de nuevo",
     "after": "por",
-
     "footer": "Para utilizar todas las funciones de la aplicación - ",
     "to_sign_up": "regístrese"
   },
@@ -195,7 +192,6 @@
     "my_res": "Comentarios sobre el pedido",
     "my_card": "mi tarjeta de visita",
     "change_lang": "Seleccionar un idioma",
-
     "info": "Información",
     "reviews": "Reseñas",
     "verificiation_desc": "Según nuestra experiencia los usuarios verificados son más confiables",
@@ -208,7 +204,6 @@
     "logout": "Cerrar sesión",
     "year": "año",
     "remove": "Eliminar perfil",
-
     "image_picker": "para identificar al usuario, solo necesita cargar su foto real",
     "settings": "Configuraciones",
     "referral_program": "Programa de recomendación"
@@ -218,7 +213,6 @@
     "upload_front": "Suba una foto de la primera página de su pasaporte o tarjeta de identificación",
     "upload_back": "Suba una foto de la segunda página de su pasaporte o tarjeta de identificación",
     "upload_face": "Suba su foto con la cara bien visible. Es necesario para la identificación personal.",
-
     "add_photo": "+ Añadir una foto"
   },
   "filter": {
@@ -231,7 +225,6 @@
     "modal": {
       "title1": "Compra una tarifa",
       "title2": "para seleccionar este radio",
-
       "button": "echar un vistazo"
     }
   },
@@ -252,7 +245,6 @@
     },
     "from_you": "de ti"
   },
-
   "executor_detail": {
     "call": "llamar",
     "go_to_chat": "Mensajes",
@@ -334,18 +326,19 @@
       "days": "día",
       "end_time": "válido hasta"
     },
-    "work_on": "Las ordenes de personas se muestran dentro de un radio de ",
+    "work_on": "Lo que te da suscripción ✅\nVerá el pedido en un radio no estre, esto aumentará la cantidad de pedidos que ya debe realizar.\n*Hemos realizado un pago mínimo para obtener el máximo rendimiento.",
     "desc": " de su geolocalización",
     "to": "A",
-    "duration": "El período de validez es de 1 mes."
+    "duration": "El período de validez es de 1 mes.",
+    "duration_12": "Expirado 12 meses"
   },
   "vip_statuses": {
     "radius_10": "Radio 10 km",
     "radius_20": "Radio 20 km",
     "radius_30": "Radio 30 km",
     "radius_100": "Radio 100 km",
-    "radius_unlimited": "El radio es ilimitado.",
-    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+    "radius_unlimited": "Suscripción 1 mes",
+    "radius_unlimited_12": "Suscripción 12 meses"
   },
   "room_list": {
     "modal": {
@@ -360,7 +353,6 @@
     },
     "was_in": "estuvo en línea hace"
   },
-
   "user_statuses": {
     "online": "En línea",
     "offline": "Desconectado"
@@ -393,7 +385,6 @@
     },
     "photo_add": "Añadir una foto"
   },
-
   "logged_modal": {
     "title": "Si aún no está registrado, por favor, regístrese",
     "button": "Iniciar sesión"

@@ -327,18 +327,19 @@
       "days": "zile",
       "end_time": "valabil până la"
     },
-    "work_on": "Sunt afișate comenzile de persoane pe o rază de până la ",
+    "work_on": "Ce vă oferă abonament ✅\nVeți vedea comanda într -o rază nerestricționată, aceasta va crește numărul de comenzi pe care deja trebuie să le efectuați.\n*Am efectuat o plată minimă pentru a face performanțe maxime.",
     "desc": " de la adresa geografică",
     "to": "La",
-    "duration": "Perioada de valabilitate este de 1 lună"
+    "duration": "Perioada de valabilitate este de 1 lună",
+    "duration_12": "A expirat 12 luni"
   },
   "vip_statuses": {
     "radius_10": "Radius 10 km",
     "radius_20": "Radius 20 km",
     "radius_30": "Radius 30 km",
     "radius_100": "Radius 100 km",
-    "radius_unlimited": "Radius nelimitată",
-    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+    "radius_unlimited": "Abonament 1 lună",
+    "radius_unlimited_12": "Abonament 12 luni"
   },
   "room_list": {
     "modal": {

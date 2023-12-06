@@ -327,18 +327,19 @@
       "days": "päevadel",
       "end_time": "kehtiv kuni"
     },
-    "work_on": "Kuvatakse inimeste tellimused  nende geograafilisest asukohast kuni ",
+    "work_on": "Mis teile tellimuse annab ✅\nNäete tellimust märkimata raadiuses, see suurendab juba täitmiseks vajalike tellimuste arvu.\n*Oleme maksimaalse jõudluse tegemiseks teinud minimaalse makse.",
     "desc": " aadiuses",
     "to": "Enne",
-    "duration": "Kehtivusaeg 1 kuu"
+    "duration": "Kehtivusaeg 1 kuu",
+    "duration_12": "Aegunud 12 kuud"
   },
   "vip_statuses": {
     "radius_10": "Raadius 10 km",
     "radius_20": "Raadius 20 km",
     "radius_30": "Raadius 30 km",
     "radius_100": "Raadius 100 km",
-    "radius_unlimited": "Raadius piiramatu",
-    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+    "radius_unlimited": "Tellimus 1 kuu",
+    "radius_unlimited_12": "Tellimus 12 kuud"
   },
   "room_list": {
     "modal": {

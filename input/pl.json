@@ -80,7 +80,6 @@
   },
   "sign_in": {
     "subtitle": "Wpisz swój telefon",
-
     "footer": "Aby korzystać ze wszystkich funkcji aplikacji - zarejestruj się",
     "sign_up_warning": "Jeśli nie jesteś jeszcze zarejestrowany, zarejestruj się",
     "referral_code_title": "Przedstaw polecany kod",
@@ -133,7 +132,6 @@
     "type_code": "Wprowadź kod с",
     "resend": "Wyślij ponownie",
     "after": "przez",
-
     "footer": "Aby użyć wszystkich funkcji aplikacji - ",
     "to_sign_up": "Zarejestruj"
   },
@@ -194,7 +192,6 @@
     "my_res": "Odpowiedzi",
     "my_card": "Moja wizytówka",
     "change_lang": "Wybierz język",
-
     "info": "Informacja",
     "reviews": "Recenzje",
     "verificiation_desc": "Z naszego doświadczenia wynika, że zweryfikowani użytkownicy są bardziej godni zaufania",
@@ -228,7 +225,6 @@
     "modal": {
       "title1": "Kup taryfę",
       "title2": "aby wybrać ten promień",
-
       "button": "Patrzeć"
     }
   },
@@ -331,18 +327,19 @@
       "days": "dniów",
       "end_time": "ważne do"
     },
-    "work_on": "Zamówienia są wyświetlane w promieniu do ",
+    "work_on": "Co zapewnia subskrypcję ✅\nZobaczysz zamówienie w nieskrępowanym promieniu, co zwiększy liczbę zamówień, które już musisz wykonać.\n*Dokonaliśmy minimalnej płatności, aby uzyskać maksymalną wydajność.",
     "desc": " od ich lokalizacji geograficznej",
     "to": "Do",
-    "duration": "Okres ważności 1 miesiąc"
+    "duration": "Okres ważności 1 miesiąc",
+    "duration_12": "Wygasło 12 miesięcy"
   },
   "vip_statuses": {
     "radius_10": "Promień 10 km",
     "radius_20": "Promień 20 km",
     "radius_30": "Promień 30 km",
     "radius_100": "Promień 100 km",
-    "radius_unlimited": "Promień nieograniczony",
-    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+    "radius_unlimited": "Subskrypcja 1 miesiąc",
+    "radius_unlimited_12": "Subskrypcja 12 miesięcy"
   },
   "room_list": {
     "modal": {
@@ -357,7 +354,6 @@
     },
     "was_in": "był(a) online"
   },
-
   "user_statuses": {
     "online": "online",
     "offline": "Offline"

@@ -80,7 +80,6 @@
   },
   "sign_in": {
     "subtitle": "Enter your phone",
-
     "footer": "To use all the features of the application – register",
     "sign_up_warning": "If you are not registered yet, please register",
     "referral_code_title": "Enter referral code",
@@ -133,7 +132,6 @@
     "type_code": "Enter the code from",
     "resend": "Send again",
     "after": "via",
-
     "footer": "In order to use all the features of the application -",
     "to_sign_up": "register"
   },
@@ -194,7 +192,6 @@
     "my_res": "Responses",
     "my_card": "My card",
     "change_lang": "Select a language",
-
     "info": "Information",
     "reviews": "Reviews",
     "verificiation_desc": "In our experience, verified users are more credible",
@@ -207,7 +204,6 @@
     "logout": "Log out",
     "year": "of the year",
     "remove": "Delete Profile",
-
     "image_picker": "to identify the user, you need to upload only your real photo",
     "settings": "Settings",
     "referral_program": "Referral Program"
@@ -229,7 +225,6 @@
     "modal": {
       "title1": "Buy",
       "title2": " tariff to select this radius",
-
       "button": "Look"
     }
   },
@@ -332,18 +327,19 @@
       "days": "days",
       "end_time": "valid until"
     },
-    "work_on": "Orders of people within a radius of up to ",
+    "work_on": "What gives you subscription ✅\nYou will see the order in an unlimited radius, this will increase the number of orders that you already need to perform.\nWe have made a minimum payment to make maximum performance.\n",
     "desc": " from their geo are displayed",
     "to": "To",
-    "duration": "Valid period is 1 month"
+    "duration": "Expired 1 month",
+    "duration_12": "Expired 12 months"
   },
   "vip_statuses": {
     "radius_10": "Radius 10 km",
     "radius_20": "Radius 20 km",
     "radius_30": "Radius 30 km",
     "radius_100": "Radius 100 km",
-    "radius_unlimited": "Radius unlimited",
-    "radius_unlimited_12": "Радиус безлим на 12 месяцев"
+    "radius_unlimited": "Subscription 1 month",
+    "radius_unlimited_12": "Subscription 12 months"
   },
   "room_list": {
     "modal": {
@@ -358,7 +354,6 @@
     },
     "was_in": "was online"
   },
-
   "user_statuses": {
     "online": "Online",
     "offline": "Offline"

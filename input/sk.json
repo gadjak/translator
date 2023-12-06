@@ -327,18 +327,19 @@
       "days": "dni",
       "end_time": "platné do"
     },
-    "work_on": "Zobrazujú sa objednávky ľudí v okruhu do ",
+    "work_on": "Čo vám dáva predplatné ✅\nUvidíte objednávku v nezvratom polomere, čím sa zvýši počet objednávok, ktoré už potrebujete vykonať.\n*Urobili sme minimálnu platbu, aby sme dosiahli maximálny výkon.",
     "desc": " od vašej polohy",
     "to": "Komu",
-    "duration": "Platnosť 1 mesiac"
+    "duration": "Platnosť 1 mesiac",
+    "duration_12": "Vypršal 12 mesiacov"
   },
   "vip_statuses": {
     "radius_10": "Rádius 10 km",
     "radius_20": "Rádius 20 km",
     "radius_30": "Rádius 30 km",
     "radius_100": "Rádius 100 km",
-    "radius_unlimited": "Neobmedzený okruh",
-    "radius_unlimited_12": "Neobmedzený okruh na 12 mesiacov"
+    "radius_unlimited": "Predplatné 1 mesiac",
+    "radius_unlimited_12": "Predplatné 12 mesiacov"
   },
   "room_list": {
     "modal": {

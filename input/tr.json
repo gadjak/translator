@@ -327,18 +327,19 @@
       "days": "_ gün",
       "end_time": "kadar geçerli"
     },
-    "work_on": "Konumlarınızdan",
+    "work_on": "Size abonelik veren nedir ✅\nSiparişi karınsız bir yarıçapta göreceksiniz, bu zaten gerçekleştirmeniz gereken sipariş sayısını artıracaktır.\n*Maksimum performans elde etmek için asgari ödeme yaptık.",
     "desc": " kadar yarıçapta bulunan kişilerin siparişleri görüntülenir",
     "to": "kadar",
-    "duration": "Geçerlilik 1 ay"
+    "duration": "Geçerlilik 1 ay",
+    "duration_12": "Süresi doldu 12 ay"
   },
   "vip_statuses": {
     "radius_10": "10 km yarıçapı",
     "radius_20": "20 km yarıçapı",
     "radius_30": "30 km yarıçapı",
     "radius_100": "100 km yarıçapı",
-    "radius_unlimited": "Yarıçap sınırsız",
-    "radius_unlimited_12": "Yarıçap sınırsız 12 ay boyunca"
+    "radius_unlimited": "Abonelik 1 ay",
+    "radius_unlimited_12": "Abonelik 12 ay"
   },
   "room_list": {
     "modal": {
