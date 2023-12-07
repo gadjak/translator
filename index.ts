@@ -34,25 +34,25 @@ console.log('start translate', lang)
 const parsed = JSON.parse(json);
 
 
-parsed.vip.duration_12 = await translate(fromData.vip.duration_12, {
-    from: fromLang,
-    to: lang,
-  });
+// parsed.vip.duration_12 = await translate(fromData.vip.duration_12, {
+//     from: fromLang,
+//     to: lang,
+//   });
 
 parsed.vip.work_on = await translate(fromData.vip.work_on, {
     from: fromLang,
     to: lang,
   });
 
-  parsed.vip_statuses.radius_unlimited = await translate(fromData.vip_statuses.radius_unlimited, {
-    from: fromLang,
-    to: lang,
-  });
+  // parsed.vip_statuses.radius_unlimited = await translate(fromData.vip_statuses.radius_unlimited, {
+  //   from: fromLang,
+  //   to: lang,
+  // });
 
-  parsed.vip_statuses.radius_unlimited_12 = await translate(fromData.vip_statuses.radius_unlimited_12, {
-    from: fromLang,
-    to: lang,
-  });
+  // parsed.vip_statuses.radius_unlimited_12 = await translate(fromData.vip_statuses.radius_unlimited_12, {
+  //   from: fromLang,
+  //   to: lang,
+  // });
 
 const translated = JSON.stringify(parsed, null, 2);
 return translated;

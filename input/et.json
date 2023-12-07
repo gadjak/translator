@@ -327,7 +327,7 @@
       "days": "päevadel",
       "end_time": "kehtiv kuni"
     },
-    "work_on": "Mis teile tellimuse annab ✅\nNäete tellimust märkimata raadiuses, see suurendab juba täitmiseks vajalike tellimuste arvu.\n*Oleme maksimaalse jõudluse tegemiseks teinud minimaalse makse.",
+    "work_on": "Tellimuse eelised:\nJälgimisraadiuse mõju on piiramatu, mis võimaldab suurendada tellimuste arvu.\nMinimaalne makse maksimaalse kasu eest.",
     "desc": " aadiuses",
     "to": "Enne",
     "duration": "Kehtivusaeg 1 kuu",
