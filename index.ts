@@ -2,7 +2,7 @@ import { translate } from "free-translate";
 import { Locale } from "free-translate/dist/types/locales";
 import { readFile, readFileSync, writeFile } from "fs";
 
-const fromLang = 'uk';
+const fromLang = 'ru';
 
 const langs = [
   "de",
@@ -39,7 +39,7 @@ const parsed = JSON.parse(json);
 //     to: lang,
 //   });
 
-parsed.vip.work_on = await translate(fromData.vip.work_on, {
+parsed.filter.modal.title1 = await translate(fromData.filter.modal.title1, {
     from: fromLang,
     to: lang,
   });
